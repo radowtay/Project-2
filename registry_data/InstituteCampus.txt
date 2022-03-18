@@ -1,0 +1,943 @@
+1001	1001	Unknown
+1002	1002	Unknown
+1003	1003	Unknown
+1004	1004	Unknown
+1005	1005	Unknown
+1006	1006	Unknown
+1007	1007	Unknown
+1008	1008	Unknown
+1009	1009	Unknown
+1010	1010	Unknown
+1011	1011	Unknown
+1012	1012	Unknown
+1013	1013	Unknown
+1014	1014	Unknown
+1015	1015	Unknown
+1016	1016	Main Campus on Campus Court
+1017	1017	Main Campus on Mustang Road
+1018	1018	Online
+1019	1019	Unknown
+1020	1020	Main Campus on N Grand Ave
+1021	1021	Unknown
+1022	1022	Unknown
+1023	1023	Main Campus on College Heights
+1024	1024	Clarendon Campus
+1025	1025	Main Campus in Austin
+1026	1026	Main Campus on California St
+1027	1027	Main Campus on Mtn Crk Pkwy
+1028	1028	Unknown
+1029	1029	Northwest
+1030	1030	Main Campus on Tiger Dr
+1031	1031	Unknown
+1032	1032	Borger Campus
+1033	1033	Main Campus in Denison
+1034	1034	Main Campus on Hickory
+1035	1035	Unknown
+1036	1036	Unknown
+1037	1037	Unknown
+1038	1038	Main Campus on Fisk St
+1039	1039	Main Campus on Fondren Rd
+1040	1040	Main Campus on Chicon St
+1041	1041	Main Campus on Broadway
+1042	1042	Main Campus on Albritton Dr
+1043	1043	Unknown
+1044	1044	Main Campus on MLK Blvd
+1045	1045	Unknown
+1046	1046	Main Campus on Lee Dr
+1047	1047	Longview Campus
+1048	1048	Main Campus on College Ave
+1049	1049	Main Campus on Nineteenth St
+1050	1050	Main Campus on College St
+1051	1051	Main Campus on College Dr
+1052	1052	Main Campus on Sayles Blvd
+1053	1053	Main Campus on Taft Blvd
+1054	1054	Unknown
+1055	1055	Main Campus on Union Cir
+1056	1056	Main Campus on University Blvd
+1057	1057	San Antonio
+1058	1058	Main
+1059	1059	Unknown
+1060	1060	Unknown
+1061	1061	Main Campus on Simpson Stuart
+1062	1062	Unknown
+1063	1063	Main Campus on Main St
+1064	1064	Unknown
+1065	1065	Unknown
+1066	1066	Unknown
+1067	1067	Unknown
+1068	1068	Kerrville San Antonio Hwy
+1069	1069	Unknown
+1070	1070	Unknown
+1071	1071	Unknown
+1072	1072	Unknown
+1073	1073	Main Campus
+1074	1074	Main Campus
+1075	1075	Main Campus
+1076	1076	Georgetown
+1077	1077	Main Campus
+1078	1078	Main Campus
+1079	1079	Main Campus
+1080	1080	Unknown
+1081	1081	Unknown
+1082	1082	Unknown
+1083	1083	Unknown
+1084	1084	Unknown
+1085	1085	Main
+1086	1086	Unknown
+1087	1087	Unknown
+1088	1088	Main Fort Worth
+1089	1089	Main Campus off Hwy Eighty
+1090	1090	Main Tyler
+1091	1091	Main
+1092	1092	Main Seguin
+1093	1093	Main Houston
+1094	1094	Brownsville
+1095	1095	Unknown
+1096	1096	Main
+1097	1097	Denton
+1098	1098	Main
+1099	1099	Unknown
+1100	1100	Main
+1101	1101	Unknown
+1102	1102	Main
+1103	1103	Unknown
+1104	1104	Main Campus on Nedderman
+1105	1105	Unknown
+1106	1106	Main Campus on University Ave
+1107	1107	Unknown
+1108	1108	Unknown
+1109	1109	Unknown
+1110	1110	Main
+1111	1111	Unknown
+1112	1112	Main
+1113	1113	Central Texas College
+1114	1114	Unknown
+1115	1115	Houston San Jacinto St
+1116	1116	Unknown
+1117	1117	Main Campus on S First Street
+1118	1118	Main Campus on Ave Q
+1119	1119	Unknown
+1120	1120	Main Campus on Amburn Rd
+1121	1121	Unknown
+1122	1122	Unknown
+1123	1123	Unknown
+1124	1124	Unknown
+1125	1125	Unknown
+1126	1126	Unknown
+1127	1127	Unknown
+1128	1128	Unknown
+1129	1129	Unknown
+1130	1130	Main
+1131	1131	Unknown
+1132	1132	Main
+1133	1133	Unknown
+1134	1134	Unknown
+1135	1135	Main Campus on E University
+1136	1136	Unknown
+1137	1137	Unknown
+1138	1138	Unknown
+1139	1139	Unknown
+1140	1140	Unknown
+1141	1141	Unknown
+1142	1142	Unknown
+1143	1143	Unknown
+1144	1144	Unknown
+1145	1145	Main Campus on Ocean Dr
+1146	1146	Online
+1147	1147	Unknown
+1148	1148	Unknown
+1149	1149	Unknown
+1150	1150	Main Campus on N Lamar
+1151	1151	Unknown
+1152	1152	Unknown
+1153	1153	Unknown
+1154	1154	Unknown
+1155	1155	Main Campus on Chapel Hill Rd
+1156	1156	Unknown
+1157	1157	Main Campus on Proctor St
+1158	1158	Main Campus on Front Ave
+1159	1159	Central Park Campus
+1160	1160	Unknown
+1161	1161	Main Campus on University Ave
+1162	1162	Main Campus on W University
+1163	1163	Unknown
+1164	1164	Unknown
+1165	1165	Unknown
+1166	1166	Unknown
+1167	1167	Unknown
+1168	1168	Main Campus on E Lavaca
+1169	1169	Fort Worth Campus Closed
+1170	1170	Unknown
+1172	1172	Online
+1173	1173	San Antonio East
+1174	1174	San Antonio West
+1175	1175	Austin
+1176	1176	South Dallas in Desoto
+1177	1177	Dallas in Richardson
+1180	1178	Arlington
+1181	1179	Houston West
+1182	1180	Houston North
+1183	1181	Houston South
+1184	1182	ONLINE
+1185	1183	Mountain View
+1187	1184	Online
+1189	1149	Northridge
+1208	1034	Abilene
+1209	1203	Irving
+1210	1203	Houston
+1211	1149	Round Rock
+1212	1149	Cypress Creek
+1213	1188	Main Campus
+1214	1188	Branch Campus
+1215	1173	San Antonio West
+1216	1022	Brenham Campus
+1217	1022	Bryan Campus
+1218	1022	Schulenburg Campus 
+1219	1022	Sealy Campus
+1220	1173	Waco
+1221	1173	Houston South
+1222	1204	San Antonio
+1223	1204	Corpus Christi
+1224	1204	Brownsville
+1225	1204	McAllen
+1226	1204	Weslaco
+1227	1202	Online
+1228	1191	Austin Campus
+1229	1191	Fort Worth Center
+1230	1191	Houston Campus
+1231	1191	Houston Galleria Center
+1232	1191	Irving Campus
+1233	1191	Richardson Center
+1234	1191	San Antonio Campus
+1235	1191	Sugar Land Center
+1236	1191	Online
+1237	1193	Online
+1238	1043	Kilgore Campus
+1239	1043	Longview Campus
+1240	1192	Online
+1241	1199	Online
+1242	1199	San Antonio
+1243	1173	Houston West
+1244	1173	Arlington
+1245	1173	Dallas in Richardson
+1246	1173	South Dallas in Desoto
+1247	1173	Austin
+1248	1194	Nursing and Allied Health 
+1249	1194	MidValley
+1250	1194	Pecan
+1251	1194	Star County
+1252	1194	Technology
+1253	1194	Online
+1254	1149	Eastview
+1255	1149	Elgin
+1256	1149	Hays
+1257	1149	Pinnacle
+1258	1149	Rio Grande
+1259	1149	Riverside
+1260	1149	South Austin
+1261	1205	Austin
+1262	1205	Dallas
+1263	1205	Fort Worth
+1264	1205	Fort Worth South
+1265	1205	Houston Bissonnet
+1266	1205	Houston Greenspoint
+1267	1205	Houston Hobby
+1268	1205	Mid Cities
+1269	1205	San Antonio
+1270	1206	CyFair
+1271	1206	Kingwood
+1272	1206	Montgomery
+1273	1206	North Harris
+1274	1206	Tomball
+1275	1206	Corporate College
+1276	1206	Online
+1277	1206	University Park
+1278	1207	Houston Campus on Richmond Ave
+1279	1207	Online
+1280	1208	Online
+1281	1209	East Campus
+1282	1209	West Campus
+1283	1084	XXXXX
+1284	1084	XXXXX
+1285	1084	XXXXX
+1286	1084	XXXXX
+1287	1084	XXXXX
+1288	1084	XXXXX
+1289	1084	XXXXX
+1290	1084	XXXXX
+1291	1084	XXXXX
+1292	1084	XXXXX
+1293	1084	XXXXX
+1294	1084	XXXXX
+1295	1084	XXXXX
+1296	1065	Northeast Lakeview College
+1297	1065	Northwest Vista College
+1298	1065	Palo Alto College
+1299	1065	St Phillips College
+1300	1065	San Antonio College
+1301	1205	Online
+1302	1210	Houston
+1303	1211	Austin
+1304	1081	Northeast Campus
+1305	1081	Northwest Campus
+1306	1081	South Campus
+1307	1081	Southeast Campus
+1308	1081	Trinity River Campus
+1309	1081	Trinity River Campus East
+1310	1081	Online
+1311	1148	Victoria
+1312	1148	Clear Lake
+1313	1148	Downtown
+1314	1148	Main
+1315	1072	San Marcos
+1316	1198	Dallas Campus
+1317	1198	Fort Worth Campus
+1318	1198	Houston Westchase
+1319	1198	Houston Southeast Webster
+1320	1198	North Houston Greenspoint
+1321	1198	Online
+1322	1212	Alamogordo
+1323	1212	Albuquerque
+1324	1212	Carlsbad
+1325	1212	Dona Ana
+1326	1212	Las Cruces
+1327	1149	Online
+1328	1045	Fort McIntosh Campus
+1329	1045	South Campus
+1330	1213	Houston
+1331	1214	Houston Hillcroft Campus
+1332	1214	Houston North Campus
+1333	1214	Houston Main Campus Pasadena
+1334	1215	Irving Dallas
+1335	1215	Houston Campus
+1336	1216	Amarillo
+1337	1216	Beaumont
+1338	1216	El Paso
+1339	1216	Las Cruces
+1340	1216	Lubbock
+1341	1216	Longview
+1342	1216	Killeen
+1343	1216	College Station
+1344	1217	North Campus
+1345	1217	Southwest Campus
+1346	1218	Airtex Blvd
+1347	1142	Central College
+1348	1142	Inactive
+1349	1142	Northeast College
+1350	1142	Northwest College
+1351	1142	Southeast College
+1352	1142	Southwest College MissouriCity
+1353	1142	Corporate College
+1354	1142	Online
+1355	1219	Austin
+1356	1219	Del Rio
+1357	1219	El Paso
+1358	1219	Northeast San Antonio
+1359	1219	Online
+1360	1219	San Angelo
+1361	1219	San Antonio
+1362	1220	Dallas Ft Worth
+1363	1220	San Antonio
+1364	1018	Downtown Campus
+1365	1018	East Campus
+1366	1018	Hereford Campus
+1367	1018	Moore County Campus
+1368	1018	Washington Street Campus
+1369	1018	West Campus
+1370	1116	Main Campus on Eastgate Drive
+1371	1116	Online
+1372	1095	Main Lubbock
+1373	1072	College of Architecture El Pas
+1374	1072	Fredericksburg
+1375	1072	Highland Lakes
+1376	1072	Center at Junction
+1377	1072	Waco
+1378	1072	Online
+1379	1019	Main Campus on W Avenue N
+1380	1019	Online
+1381	1119	Main
+1382	1119	Online
+1383	1121	Main
+1384	1154	Main
+1385	1028	Lancaster
+1386	1028	Cedar Hill
+1387	1124	Main
+1388	1124	Pleasant Grove Campus
+1389	1114	Main Downtown
+1390	1114	Bill J Priest Campus
+1391	1114	West Campus
+1392	1122	Main
+1393	1153	Central Campus Irving
+1394	1153	North Campus Coppell
+1395	1153	South Campus Irving
+1396	1153	West Campus DFW Airport
+1397	1123	Main Campus
+1398	1123	Garland Campus
+1399	1142	Inactive
+1400	1142	Coleman College John P McGover
+1401	1221	Online
+1402	1021	Beeville Campus
+1403	1021	Alice Campus
+1404	1021	Kingsville Campus
+1405	1021	Pleasanton
+1406	1054	Corsicana Campus
+1407	1054	Fairfield Campus
+1408	1054	Mexia Campus
+1409	1054	Midlothian Campus
+1410	1054	Waxahachie Campus
+1411	1029	East Campus
+1412	1029	West Campus
+1413	1222	Houston Campus
+1414	1223	El Paso
+1415	1131	Harlingen
+1416	1131	Marshall
+1417	1131	Red Oak
+1418	1131	Ingleside
+1419	1131	Waco
+1420	1131	Hutto
+1421	1131	Richmond Fort Bend Technical C
+1422	1131	Sweetwater
+1423	1224	Online
+1424	1225	Online
+1425	1036	Burleson
+1426	1036	Glen Rose
+1427	1036	Hill County Campus
+1428	1036	Johnson County Campus
+1429	1036	Meridian
+1430	1062	Ranger in Eastland County
+1431	1062	Early in Brown County
+1432	1062	Stephenville in Erath County
+1433	1131	Breckenridge
+1434	1131	Brownwood
+1435	1226	Online
+1436	1227	Austin Main
+1437	1227	Brownsville
+1438	1227	Corpus Christi
+1439	1227	Harlingen
+1440	1227	Pharr
+1441	1227	San Antonio North
+1442	1227	San Antonio South
+1443	1134	Main
+1444	1134	Online
+1445	1228	Main Campus on W Division St
+1446	1229	Online
+1447	1230	Tyler
+1448	1190	Southwest Freeway
+1449	1231	San Antonio
+1450	1231	McAllen
+1451	1232	Online
+1452	1105	JJ Pickle Research
+1453	1105	Marine Science Institute
+1454	1105	McDonald Observatory
+1455	1233	Dyer St
+1456	1234	Buffalo Hill
+1457	1235	Grand Prairie
+1458	1236	Online
+1459	1142	Southwest College Stafford
+1460	1237	Online
+1461	1238	Online
+1462	1239	Clovis NM
+1463	1240	Dallas on Lyndon B Johnson Frw
+1464	1241	Cedar Hill
+1465	1241	Irving
+1466	1241	Katy
+1467	1241	North Austin
+1468	1241	North Dallas
+1469	1241	Northwest Houston
+1470	1241	Plano
+1471	1241	San Antonio
+1472	1241	Stafford
+1473	1242	Buckner Blvd
+1474	1240	Online
+1475	1222	Online
+1476	1105	Main Campus
+1477	1133	Callier Center
+1478	1133	The Center for BrainHealth
+1479	1133	Center for Vital Longevity
+1480	1133	Collin Higher Education Center
+1481	1133	Main Campus on Campbell
+1482	1138	Downtown
+1483	1138	HemisFair Park
+1484	1138	Main Campus on UTSA Circle
+1485	1146	Longview
+1486	1146	Main Campus on University Blvd
+1487	1146	Palestine
+1488	1243	Online
+1489	1111	Bay City
+1490	1111	Fort Bend Technical Center Ric
+1491	1111	Sugar Land
+1492	1111	Wharton
+1493	1109	Granbury
+1494	1109	Mineral Wells
+1495	1109	Weatherford College Agricultur
+1496	1109	Weatherford College Farm
+1497	1109	Main
+1498	1109	Wise County
+1499	1108	Amarillo
+1500	1108	Lubbock
+1501	1108	Main Plainview
+1502	1108	San Antonio
+1503	1108	Wichita Falls Sheppard AFB
+1504	1108	Wichita Falls Downtown Site
+1505	1107	Main Red River
+1506	1107	VC Calhoun County Center
+1507	1107	VC Gonzales Center
+1508	1107	VC Adult Education Center
+1509	1107	VC Libert Street Industrial Tr
+1510	1107	VC Vocational Nursing Program 
+1511	1107	VC Vocational Nursing Program 
+1512	1107	VC Wilkins Industrial Training
+1513	1107	Leo J Welder Center for the Pe
+1514	1137	Century City Center
+1515	1137	Seymour Learning Center
+1516	1137	Sheppard Learning Center
+1517	1137	Skills Training Center
+1518	1137	Vernon Campus
+1519	1244	Fauna St Houston
+1520	1245	Online
+1521	1246	Main Greenville
+1522	1099	Main Campus in Tyler
+1523	1099	Lindale
+1524	1099	Jacksonville
+1525	1099	Rusk
+1526	1035	Athens
+1527	1035	Kaufman
+1528	1035	Palestine
+1529	1035	Terrell
+1530	1247	Main Campus
+1531	1247	Brooks City Base
+1532	1247	Educational and Cultural Arts 
+1533	1247	Gillette
+1534	1247	Alamo University Center
+1535	1248	Main
+1536	1249	Main
+1537	1250	Main
+1538	1251	Ferguson Road Dallas
+1539	1252	Dallas Campus on S Lancaster
+1540	1097	Dallas
+1541	1097	Houston
+1542	1253	Covenant with Christ Intl Camp
+1543	1095	El Paso
+1544	1095	Fredericksburg
+1545	1095	Highland Lakes
+1546	1095	Junction
+1547	1095	Waco
+1548	1083	Robinson Rd
+1549	1083	Atlanta Main St
+1550	1082	EWCHEC Hutto
+1551	1082	EWCHEC Taylor
+1552	1082	Cameron Education Center
+1553	1082	Texas Bioscience Institute
+1554	1082	Main Campus
+1555	1148	Sugar Land
+1556	1148	System at Cinco Ranch
+1557	1086	Stephenville Campus
+1558	1086	Southwest Metroplex Center For
+1559	1086	Midlothian Campus Navarro Coll
+1560	1086	Waco
+1561	1086	Online
+1562	1080	Alpine
+1563	1080	Del Rio
+1564	1080	Eagle Pass
+1565	1080	Uvalde
+1566	1254	Arlington
+1567	1254	Dallas
+1568	1066	XXXXX
+1569	1071	Crystal City
+1570	1071	Del Rio
+1571	1071	Eagle Pass
+1572	1071	Hondo
+1573	1071	Pearsall
+1574	1071	Uvalde
+1575	1037	Big Spring
+1576	1037	Lamesa
+1577	1037	San Angelo
+1578	1037	Southwest Collegiate Institute
+1579	1255	Online
+1580	1256	San Antonio Chapter IEC
+1581	1257	Arlington Campus
+1582	1257	Beaumont Campus
+1583	1257	Brownsville Campus
+1584	1257	Corpus Christi Campus
+1585	1257	Dallas Campus
+1586	1257	El Paso Campus
+1587	1257	Fort Worth Campus
+1588	1257	Laredo Campus
+1589	1257	Lubbock Campus
+1590	1257	McAllen Campus
+1591	1257	San Antonio Ingram Campus
+1592	1257	San Antonio San Pedro Campus
+1593	1258	Allen Center
+1594	1258	Central Park Campus
+1595	1258	Collin Higher Education Center
+1596	1258	Courtyard Center
+1597	1258	Preston Ridge Campus
+1598	1258	Rockwall Center
+1599	1258	Spring Creek Campus
+1600	1259	Sunland Park NM
+1601	1259	Dallas
+1602	1260	Dallas Ave
+1603	1069	Levelland Campus
+1604	1069	Plainview Extension Center
+1605	1069	SPC Reese Center
+1606	1069	SPC Byron Martin ATC
+1607	1262	Online
+1608	1070	Dallas Boaz Ln
+1609	1070	Plano Tennyson Pkwy
+1610	1070	Taos NM
+1611	1160	Central Campus
+1612	1160	North Campus
+1613	1160	Online
+1614	1160	South Campus
+1615	1064	Main Campus Ave J
+1616	1064	Online
+1617	1064	University Park
+1618	1064	The Woodlands
+1619	1060	Main Campus Paris
+1620	1060	Greenville
+1621	1060	Sulphur Springs
+1622	1059	Main Campus
+1623	1059	Marshall College Center
+1624	1059	Shelby College Center
+1625	1059	Shelby Regional Training Cente
+1626	1263	Technology Campus
+1627	1263	Aeronautics Campus
+1628	1233	Montana Ave
+1629	1264	Spindle Dr Houston
+1630	1265	Kirby Dr Houston Closed
+1631	1266	Dallas
+1632	1266	Houston
+1633	1266	Online
+1634	1266	San Antonio
+1635	1267	Main
+1636	1149	Highland
+1637	1268	Kerrville
+1638	1033	South Campus in Van Alstyne
+1639	1033	West Ext Grayson Co Airport
+1640	1269	Austin
+1641	1269	Dallas
+1642	1206	Conroe Center
+1643	1270	Leopard St
+1644	1271	Online
+1645	1272	WESTERN TECHNICAL INSTITUTE
+1646	1273	Houston Community College 
+1647	1274	Southwestern University Oklaho
+1648	1275	Webster
+1649	1276	hallmark
+1650	1277	EL PASO
+1651	1278	DALLAS
+1652	1279	Online Campus
+1653	1280	HOUSTON CAMPUS
+1654	1281	EL PASO
+1655	1282	Online 
+1656	1283	Campus on Wells Fargo Dr
+1657	1284	Cedar Hill
+1658	1285	Dallas Cedar Hill 
+1659	1286	Southern Adventist University
+1660	1288	Region One
+1661	1289	online
+1662	1290	DALLAS
+1663	1291	utsa
+1664	1292	NEW HORIZONS
+1665	1293	Art Institute of Austin
+1666	1294	Online
+1667	1295	US AVIATION ACADEMY
+1668	1297	Killeen
+1669	1249	Texas A&M University Central T
+1670	1298	Edinburg
+1671	1298	Brownsville
+1672	1298	McAllen
+1673	1298	Rio Grande City
+1674	1298	Harlingen
+1675	1299	Amarillo
+1676	1299	Arlington
+1677	1299	Austin
+1678	1299	San Antonio
+1679	1299	Houston
+1680	1301	Online
+1681	1302	CULTURAL TECHNICAL INSTITUTE E
+1682	1303	Online
+1683	1304	LITERACY INSTRUCTION FOR TEXAS
+1684	1305	Main Campus on University Hill
+1685	1306	El Paso
+1686	1307	Killeen III
+1687	1308	Wallisville Rd
+1688	1309	BRIGHTWOOD COLLEGE
+1689	1310	E DALLAS
+1690	1311	Online
+1691	1312	NORTH
+1692	1313	San Antonio
+1693	1314	Main Campus on MLK Jr Blvd
+1694	1314	PrePeo Barber Styling College
+1695	1315	DALLAS
+1696	1316	PREPARING PEOPLE BARBER STYLIN
+1697	1317	Online
+1698	1173	Webster
+1699	1321	SOUTHWESTERN BAPTIST THEOLOGIC
+1700	1117	Jasper Teaching Center
+1701	1326	Main Campus Fort Worth
+1702	1024	Pampa Center
+1703	1024	Childress Center
+1704	1024	Amarillo Center
+1705	1027	Online
+1706	1032	Perryton Allen Campus
+1707	1032	Hereford Cosmetology Campus
+1708	1032	Dalhart Center
+1709	1032	Dumas Cosmetology Campus
+1710	1038	El Paso Center
+1711	1038	New Braunfels Center
+1712	1047	Dallas Educational Center
+1713	1047	Houston Education Center
+1714	1141	Mission del Paso Campus
+1715	1141	Northwest Campus
+1716	1141	Rio Grande Campus
+1717	1141	Transmountain Campus
+1718	1141	Valle Verde Campus
+1719	1155	Community Resource Center
+1720	1155	Culinary Arts School
+1721	1155	Hanson Sewell
+1722	1155	Industrial Technology Training
+1723	1155	Naples Omaha Center
+1724	1159	Collin Higher Education Center
+1725	1159	Courtyard Center
+1726	1159	Preston Ridge Campus
+1727	1159	Spring Creek Campus
+1728	1159	Allen Center
+1729	1159	Rockwall Center
+1730	1172	Austin South
+1731	1172	Austin North
+1732	1172	Georgetown
+1733	1172	Houston Campus on Katy Fwy
+1734	1172	Lewisville
+1735	1172	Mesquite
+1736	1172	Richardson
+1737	1190	Covenant with Christ Intl
+1738	1319	HEALTH SCIENCE CENTER
+1739	1320	Main Campus on Guadalupe
+1740	1252	Dallas Campus on Ferguson Rd
+1741	1252	Houston Campus on Richmond Ave
+1742	1252	Houston Campus on Cavalcade
+1743	1327	ONLINE
+1744	1328	Abilene
+1745	1331	ONLINE
+1746	1336	Easter New Mexico University
+1747	1337	Springfield
+1748	1338	Online
+1749	1344	COLUMBUS CAMPUS
+1750	1025	Online
+1751	1023	Abilene
+1752	1182	DALLAS
+1753	1182	KILLEEN
+1754	1319	DALLAS
+1755	1319	MAIN CAMPUS IN DENTON
+1756	1347	EL PASO
+1757	1348	ONLINE
+1758	1349	Online
+1759	1350	HOUSTON
+1760	1351	West Des Moines IA
+1761	1352	MAIN DALLAS
+1762	1353	Houston Main
+1763	1354	Online
+1764	1355	Online
+1765	1356	Ridgecrest
+1766	1358	Online
+1768	1359	Online
+1769	1307	Pharr II
+1770	1307	ABILENE
+1771	1360	El Paso
+1772	1361	Online
+1773	1362	Online
+1774	1363	Online
+1775	1364	Online
+1776	1365	Online
+1777	1366	Online
+1778	1368	Online
+1779	1369	Online
+1780	1369	Mesquite
+1781	1370	ankita test
+1782	1370	ankita test
+1783	1293	Art Institute of Dallas
+1784	1293	Art Institute of Houston
+1785	1293	The Art Institute of San Anton
+1786	1159	Online
+1787	1211	Online
+1788	1372	Austin
+1789	1372	Lubbock
+1790	1372	Online
+1791	1374	Tulsa Technology Campus
+1792	1374	Tulsa Flight Campus
+1793	1265	Sam Houston Pkwy Houston
+1794	1375	Houston on Hwy Six N
+1795	1376	Pharr
+1796	1110	Online
+1797	1293	of Pittsburgh Online Division
+1798	1377	Padres Dr in El Paso
+1799	1378	Lubbock
+1800	1379	Corpus Christi Campus
+1801	1379	McAllen Campus
+1802	1379	Victoria Campus
+1803	1380	MILLER CRANE WORKS
+1804	1381	Austin on City Park Rd
+1805	1123	Online
+1806	1382	Channelview on Dell Dale St
+1807	1054	Online
+1808	1383	Online
+1809	1384	CEF DFW Education Center
+1810	1384	Irving North Lake College Cent
+1811	1384	Coppell North Lake College Nor
+1812	1385	Houston on Regency Square
+1813	1386	Penn State World Campus Online
+1814	1387	Online Campus
+1815	1388	Dallas
+1816	1388	Online
+1817	1159	Online
+1818	1306	San Antonio North
+1819	1306	San Antonio South
+1820	1249	EWCHEC Hutto
+1821	1250	Online
+1822	1142	Northline Campus
+1823	1138	Online
+1824	1389	La Porte
+1825	1032	Online
+1826	1390	Online
+1827	1391	FCC Houston Branch Campus
+1828	1392	Longview
+1829	1392	Lewisville
+1830	1392	Garland
+1831	1393	ELM MOTT
+1832	1393	KILLEEN
+1833	1394	ONLINE
+1834	1395	ONLINE
+1835	1396	EL PASO
+1836	1397	Nederland
+1837	1398	MAIN WEST CAMP WISDOM ROAD
+1838	1399	DALLAS
+1839	1400	ONLINE
+1840	1401	ONLINE
+1841	1402	SOUTH WEST CAMPUS W BELLFORD
+1842	1402	NORTH CAMPUS ELLA
+1843	1403	EL PASO
+1844	1403	HOUSTON
+1845	1403	ONLINE
+1846	1404	ONLINE
+1847	1404	WICHITA FALLS
+1848	1405	ONLINE
+1849	1406	HURST
+1850	1407	HARKER HEIGHTS
+1851	1408	DALLAS
+1852	1117	NACOGDOCHES
+1853	1117	LIVINGSTON
+1854	1117	DIBOLL
+1855	1117	CROCKETT
+1856	1117	HEMPHILL
+1857	1117	LUFKIN MOSAIC CENTER
+1858	1117	WELLS
+1859	1117	NEWTON
+1860	1409	ONLINE
+1861	1065	CENTRAL TEXAS TECHNOLOGY CENTE
+1862	1410	ONLINE
+1863	1411	TEXARKANA
+1864	1412	BRONX BARBER COLLEGE
+1865	1413	ONLINE
+1866	1414	EULESS
+1867	1415	Christian Leaders Ministries
+1868	1416	Online
+1869	1417	Ocean Corp Online
+1870	1417	Main Campus
+1871	1418	Online Campus
+1872	1419	ONLINE
+1873	1241	ONLINE
+1874	1420	Online
+1875	1421	Online
+1876	1422	Main Campus
+1877	1423	ONLINE
+1878	1424	ONLINE
+1879	1424	AUSTIN TEXAS
+1880	1425	Online Campus
+1881	1426	Olive St
+1882	1427	Houston on Northpark Central
+1883	1428	Houston on Link Rd
+1884	1429	Online Campus
+1885	1430	Online Campus
+1886	1431	El Paso Campus on Gateway Blvd
+1887	1432	Beaumont Barber
+1888	1432	Elgin Barber
+1889	1432	Main Houston Campus
+1890	1432	Port Arthur Campus
+1891	1433	Grand Prairie Campus
+1892	1434	Houston Campus on Ferguson
+1893	1435	Online Campus
+1894	1436	RELLIS Campus
+1895	1437	Online Campus
+1896	1135	Online Campus
+1897	1438	Bryan
+1898	1438	Victoria
+1899	1438	Brenham
+1900	1439	St Thomas University
+1901	1440	DEL MAR College East Campus
+1902	1440	Del Mar West Campus
+1903	1441	Hurst
+1904	1441	Arlington
+1905	1441	Dallas
+1906	1441	North Dallas
+1907	1441	Denton
+1908	1441	Fort Worth
+1909	1441	Houston Stafford
+1910	1441	San Antonio
+1911	1442	Online
+1912	1443	McAllen
+1913	1443	Corpus Christi
+1914	1443	Victoria
+1915	1445	Southeast Chapter
+1916	1445	Texas Gulf Coast Chapter
+1917	1445	Texas Coastal Bend Chapter
+1918	1445	Greater Houston Chapter
+1919	1445	TEXO Chapter
+1920	1445	Texas MidCoast Chapter
+1921	1445	South Texas Chapter
+1922	1445	Central Texas Chapter
+1923	1235	Online Campus
+1924	1446	Online Campus
+1925	1447	Online Campus
+1926	1448	Dallas on Fawn Ridge Dr
+1927	1449	Joe Battle Blvd
+1928	1450	Dallas Fort Worth
+1929	1450	Houston
+1930	1159	Wylie Campus
+1931	1451	Online Campus
+1932	1452	Online Campus
+1933	1453	Corpus Christi on Ayers St
+1934	1454	Plainview on Yonkers St
+1935	1455	Amarillo on Paramount Blvd
+1936	1456	Online Campus
+1937	1456	Austin on Burnet Rd
+1938	1456	Austin on Cameron Rd
+1939	1456	Austin on Slaughter Ln
+1940	1457	La Feria on Expwy Eighty Three
+1941	1456	Austin on Lamar Blvd
+1942	1460	Manneguin Beauty School
+1943	1458	Southwestern Assemblies of God
+1944	1459	City Vision University
+1945	1461	Vision CDL Truck Driving Schoo
+1946	1462	Miller Motte Technical College
+1947	1463	Michigan State University
+1948	1464	Cypress Bible College
+1949	1465	Upper  Iowa University
+1950	1466	ATSU
+1951	1467	Northwest Lineman Center
+1952	1468	Super Welders Academy
+1953	1469	Harlingen
+1954	1470	Greenville
+1955	1470	Winnsboro
+1956	1471	University of the People
+1957	1472	Everglades University
+1958	1473	Academy of Hair Design
+1959	1474	Oregon Institute of Technology
+1960	1475	Hollywood, CA
+1961	1141	El Paso Community College
+1962	1476	Escoffier School of Culinary A
+1963	1477	Houston School of Carpentry
+1964	1478	Abilene
+1965	1478	Austin
+1966	1479	American Military University
+1967	1479	American Military University

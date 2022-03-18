@@ -1,0 +1,479 @@
+1001	IHE	Northeast College
+1002	IHE	Northwest College
+1003	IHE	Southeast College
+1004	IHE	Southwest College
+1005	IHE	Sul Ross State University Rio Grande College*
+1006	IHE	South Campus
+1007	IHE	Texas State University System
+1008	IHE	Northwest Vista College
+1009	IHE	Tarrant County College - Southeast Campus
+1010	IHE	Southwest Collegiate Institute for the Deaf
+1011	IHE	Cy-Fair College
+1012	IHE	Kingwood College
+1013	IHE	Tomball College
+1014	IHE	Montgomery College
+1015	IHE	North Harris College
+1016	IHE	Abilene Christian University
+1017	IHE	Alvin Community College
+1018	IHE	Amarillo College
+1019	IHE	Angelo State University
+1020	IHE	Austin College
+1021	IHE	Coastal Bend College
+1022	IHE	Blinn College
+1023	IHE	Cisco College
+1024	IHE	Clarendon College
+1025	IHE	Concordia University
+1026	IHE	North Central Texas Community College
+1027	IHE	Dallas Baptist University
+1028	IHE	Dallas County Community Cedar Valley College
+1029	IHE	Del Mar College
+1030	IHE	East Texas Baptist University
+1031	IHE	Texas A&M University-Commerce
+1032	IHE	Frank Phillips College
+1033	IHE	Grayson County College
+1034	IHE	Hardin-Simmons University
+1035	IHE	Trinity Valley Community College
+1036	IHE	Hill College
+1037	IHE	Howard College
+1038	IHE	Howard Payne University
+1039	IHE	Houston Baptist University
+1040	IHE	Huston-Tillotson College
+1041	IHE	University of the Incarnate Word
+1042	IHE	Jacksonville College
+1043	IHE	Kilgore College
+1044	IHE	Lamar University
+1045	IHE	Laredo Community College
+1046	IHE	Lee College
+1047	IHE	LeTourneau University
+1048	IHE	Lon Morris College
+1049	IHE	Lubbock Christian University
+1050	IHE	University of Mary Hardin-Baylor
+1051	IHE	McLennan Community College
+1052	IHE	McMurry University
+1053	IHE	Midwestern State University
+1054	IHE	Navarro College
+1055	IHE	University of North Texas
+1056	IHE	Odessa College
+1057	IHE	Our Lady of the Lake University
+1058	IHE	The University of Texas-Pan American
+1059	IHE	Panola College
+1060	IHE	Paris Junior College
+1061	IHE	Paul Quinn College
+1062	IHE	Ranger College
+1063	IHE	Rice University
+1064	IHE	Sam Houston State University
+1065	IHE	Alamo Colleges District
+1066	IHE	St. Philip's College
+1067	IHE	Central Campus
+1068	IHE	Schreiner University
+1069	IHE	South Plains College
+1070	IHE	Southern Methodist University
+1071	IHE	Southwest Texas Junior College
+1072	IHE	Texas State University
+1073	IHE	Southwestern Assemblies of God University
+1074	IHE	Southwestern Christian College
+1075	IHE	Southwestern Adventist University
+1076	IHE	Southwestern University
+1077	IHE	St. Edward's University
+1078	IHE	St. Mary's University of San Antonio
+1079	IHE	Stephen F. Austin State University
+1080	IHE	Sul Ross State University
+1081	IHE	Tarrant County College
+1082	IHE	Temple College
+1083	IHE	Texarkana College
+1084	IHE	Texas A&M University System
+1085	IHE	Prairie View A&M University
+1086	IHE	Tarleton State University
+1087	IHE	Texas State Technical College-Waco
+1088	IHE	Texas Christian University
+1089	IHE	Jarvis Christian College
+1090	IHE	Texas College
+1091	IHE	Texas A&M University-Kingsville
+1092	IHE	Texas Lutheran University
+1093	IHE	Texas Southern University
+1094	IHE	Texas Southmost College
+1095	IHE	Texas Tech University
+1096	IHE	Texas Wesleyan University
+1097	IHE	Texas Woman's University
+1098	IHE	Trinity University
+1099	IHE	Tyler Junior College
+1100	IHE	University of Dallas
+1101	IHE	University of Houston
+1102	IHE	University of St. Thomas
+1103	IHE	The University of Texas System
+1104	IHE	University of Texas at Arlington
+1105	IHE	University of Texas at Austin
+1106	IHE	University of Texas at El Paso
+1107	IHE	Victoria College
+1108	IHE	Wayland Baptist University
+1109	IHE	Weatherford College
+1110	IHE	West Texas A&M University
+1111	IHE	Wharton County Junior College
+1112	IHE	Wiley College
+1113	IHE	Central Texas College
+1114	IHE	Dallas County Community El Centro College
+1115	IHE	South Texas College of Law
+1116	IHE	Amberton University
+1117	IHE	Angelina College
+1118	IHE	Galveston College
+1119	IHE	Baylor University
+1120	IHE	College of the Mainland
+1121	IHE	Brazosport College
+1122	IHE	Dallas County Community Mountain View College
+1123	IHE	Dallas County Community Richland College
+1124	IHE	Dallas County Community Eastfield College
+1125	IHE	Tarrant County College - Northeast Campus
+1126	IHE	Tarrant County College - South Campus
+1127	IHE	San Antonio College
+1128	IHE	Texas State Technical College-Harlingen
+1129	IHE	Dallas County Community College District
+1130	IHE	Western Texas College
+1131	IHE	Texas State Technical College
+1132	IHE	Texas A&M International University-Laredo
+1133	IHE	University of Texas at Dallas
+1134	IHE	Midland College
+1135	IHE	University of Texas of the Permian Basin
+1136	IHE	Texas State Technical College-West Texas
+1137	IHE	Vernon College
+1138	IHE	University of Texas at San Antonio
+1139	IHE	Texas A&M University at Galveston
+1140	IHE	Texas A&M University
+1141	IHE	El Paso Community College District
+1142	IHE	Houston Community College System
+1143	IHE	Tarrant County College - Northwest Campus
+1144	IHE	North Harris Montgomery Community College District
+1145	IHE	Texas A&M University-Corpus Christi
+1146	IHE	University of Texas at Tyler
+1147	IHE	University of Houston-Clear Lake*
+1148	IHE	University of Houston
+1149	IHE	Austin Community College
+1150	IHE	Texan North Campus
+1151	IHE	University of Houston-Downtown
+1152	IHE	University of Houston-Victoria*
+1153	IHE	Dallas County Community North Lake College
+1154	IHE	Dallas County Community Brookhaven College
+1155	IHE	Northeast Texas Community College
+1156	IHE	Palo Alto College
+1157	IHE	Lamar State College at Port Arthur
+1158	IHE	Lamar State College at Orange
+1159	IHE	Collin College
+1160	IHE	San Jacinto College
+1161	IHE	Texas A&M University-Texarkana
+1162	IHE	The University of Texas Rio Grande Valley
+1163	IHE	Howard County Junior College District
+1164	IHE	University of North Texas System
+1165	IHE	Texas State Technical College-Marshall
+1166	IHE	Texas Tech University System
+1167	IHE	South Texas Community College
+1168	IHE	Lamar Institute of Technology
+1169	IHE	College of Saints John Fisher and Thomas More, The
+1170	IHE	Central College
+1171	IHE	Testing
+1172	IHE	National American University
+1173	IHE	ITT Technical Institute
+1174	IHE	ITT Technical Institute
+1175	IHE	ITT Technical Institute
+1176	IHE	ITT Technical Institute
+1177	IHE	ITT Technical Institute
+1178	IHE	ITT Technical Institute
+1179	IHE	ITT Technical Institute
+1180	IHE	ITT Technical Institute
+1181	IHE	ITT Technical Institute
+1182	IHE	University of Phoenix
+1183	IHE	Dallas Community College
+1184	IHE	Florida Institute of Technology
+1185	IHE	South Texas College
+1186	IHE	South Texas College
+1187	IHE	South Texas College
+1188	IHE	Western Technical College
+1189	IHE	South Texas College
+1190	IHE	Logos Bible Institute
+1191	IHE	DeVry University
+1192	IHE	Ashworth College
+1193	IHE	Kaplan University
+1194	IHE	South Texas College
+1195	IHE	South Texas College
+1196	IHE	Austin Community College
+1197	IHE	Remington College
+1198	IHE	Remington College
+1199	IHE	International Academy of Design and Technology IADT
+1200	IHE	International Academy of Design and Technology
+1201	IHE	International Academy of Design and Technology
+1202	IHE	Independence University
+1203	IHE	Aviation Institute of Maintenance
+1204	IHE	South Texas Vocational Technical Institute
+1205	IHE	Everest Institute
+1206	IHE	Lone Star College
+1207	IHE	American Intercontinental University
+1208	IHE	Grace Bible College
+1209	IHE	International Business College
+1210	IHE	Culinary Institute LeNotre
+1211	IHE	Auguste Escoffier School of Culinary Arts
+1212	IHE	New Mexico State University
+1213	IHE	The Ocean Corporation
+1214	IHE	Interactive College of Technology
+1215	IHE	Anthem College
+1216	IHE	Vista College
+1217	IHE	Professional Careers Institute
+1218	IHE	Professional Career Training Institute
+1219	IHE	Park University
+1220	IHE	Brown Mackie College
+1221	IHE	Westwood College
+1222	IHE	Belhaven University
+1223	IHE	Southwest University
+1224	IHE	Grantham University
+1225	IHE	Ashford University
+1226	IHE	Grand Canyon University
+1227	IHE	Southern Careers Institute SCI
+1228	IHE	Arlington Baptist College
+1229	IHE	Fisk University
+1230	IHE	East Texas Barber School
+1231	IHE	Southwest Schools AKA Southwest School of Business and Technical Careers
+1232	IHE	Colorado Technical University
+1233	IHE	Cutt Masters Barber College El Paso
+1234	IHE	Audio Engineering Institute
+1235	IHE	MT Training Center
+1236	IHE	Stratford Career Institute
+1237	IHE	Full Sail University
+1238	IHE	Kansas City Community College
+1239	IHE	Clovis Community College
+1240	IHE	Argosy University
+1241	IHE	Strayer University
+1242	IHE	Dallas Institute of Funeral Service
+1243	IHE	Everest College Phoenix
+1244	IHE	Iron Workers Apprenticeship
+1245	IHE	Western Governors University
+1246	IHE	Redeemer Bible College
+1247	IHE	Texas A&M University-San Antonio
+1248	IHE	Texas A&M University-Galveston
+1249	IHE	Texas A&M University-Central Texas
+1250	IHE	Texas A&M University-Commerce
+1251	IHE	Texas Barber College #2
+1252	IHE	Texas Barber Colleges and Hairstyling Schools
+1253	IHE	Logos Bible Institute
+1254	IHE	CCI Career Training Center
+1255	IHE	Forsyth Technical Community College
+1256	IHE	Independent Electrical Contractors Inc
+1257	IHE	Kaplan College
+1258	IHE	Collin College
+1259	IHE	International Schools Professional Driver Training
+1260	IHE	McAllen Careers Institute
+1261	IHE	Liberty Tax School
+1262	IHE	University of Central Missouri
+1263	IHE	Hallmark University
+1264	IHE	Finishing Trades Institute
+1265	IHE	Center for Advanced Legal Studies
+1266	IHE	Sanford Brown
+1267	IHE	Texas A&M University-College Station
+1268	IHE	Conlees College of Cosmetology
+1269	IHE	Le Cordon Bleu College of Culinary Arts
+1270	IHE	Craft Training Center of the Coastal Bend
+1271	IHE	Southern New Hampshire University
+1272	IHE	Western Technical Institute 
+1273	IHE	Houston Community College
+1274	IHE	Southwestern University Oklahoma 
+1275	IHE	ITT Technical Webster
+1276	IHE	Hallmark Institute
+1277	IHE	Center for Employment Training
+1278	IHE	Dallas Urban League
+1279	IHE	Liberty University
+1280	IHE	Texas Barber Colleges and Hairstyling Schools
+1281	IHE	Excel Learning Center
+1282	IHE	Allied American University
+1283	IHE	Acoustic Edge Institute
+1284	IHE	CR England Premier Truck Driving School
+1285	IHE	CR England
+1286	IHE	Southern Adventist University
+1287	IHE	FPC
+1288	IHE	McAllen Adult Learning Center
+1289	IHE	University of Central Lanashire
+1290	IHE	University of Phoenix Dallas
+1291	IHE	University of Texas at San Antonio
+1292	IHE	New Horizons
+1293	IHE	The Art Institutes
+1294	IHE	California Coast University
+1295	IHE	US Aviation Academy
+1296	IHE	University of Phoenix Killeen
+1297	IHE	University of Phoenix Killeen
+1298	IHE	University of Texas Rio Grande Valley
+1299	IHE	Texas Carpenters and Millwrights Training
+1300	IHE	National American University Online
+1301	IHE	National American University
+1302	IHE	Cultural Technical Institute 
+1303	IHE	Walden University
+1304	IHE	Literacy Instruction for Texas
+1305	IHE	University of North Texas at Dallas
+1306	IHE	Vantage College El Paso
+1307	IHE	Action Career Training
+1308	IHE	Industrial Welding Academy
+1309	IHE	Brightwood College
+1310	IHE	Criswell College
+1311	IHE	Columbia College
+1312	IHE	LAREDO COMMUNITY COLLEGE
+1313	IHE	Vogue College
+1314	IHE	Preparing People Barber Styling College
+1315	IHE	PREPARING PEOPLE BARBER STYLING COLLEGE
+1316	IHE	PREPARING PEOPLE BARBER STYLING COLLEGE
+1317	IHE	Friends University
+1318	IHE	angelina college
+1319	IHE	University of North Texas
+1320	IHE	Austin Graduate School of Theology
+1321	IHE	SEMINARY
+1322	IHE	angelina college
+1323	IHE	angelina college
+1324	IHE	angelina college
+1325	IHE	angelina college
+1326	IHE	Southwestern Baptist Theological Seminary
+1327	IHE	Adams State University
+1328	IHE	Cisco College Abilene
+1329	IHE	Cisco College 
+1330	IHE	ADAMS STATE UNIVERSITY
+1331	IHE	ADAMS STATE UNIVERSITY
+1332	IHE	Cisco College 
+1333	IHE	GLOBE UNIVERSITY
+1334	IHE	ADAMS STATE UNIVERSITY
+1335	IHE	Eastern New Mexico University
+1336	IHE	Eastern New Mexico University
+1337	IHE	University of Illinois 
+1338	IHE	Globe University and Minnesota School of Business
+1339	IHE	NORTH HARRIS
+1340	IHE	University of Illinois 
+1341	IHE	Texas Bible Institute
+1342	IHE	Texas Bible Institute
+1343	IHE	Texas Bible Institute
+1344	IHE	Texas Bible Institute
+1345	IHE	GLOBE UNIVERSITY
+1346	IHE	CONCORDIA UNIVERSITY
+1347	IHE	Academy School of Careers
+1348	IHE	Penn Foster
+1349	IHE	Ultimate Medical Academy
+1350	IHE	Tulsa Welding and Technology Center
+1351	IHE	Shalom Ministry Bible College
+1352	IHE	Dallas Christian College
+1353	IHE	Arclabs
+1354	IHE	New York Institute of Photography
+1355	IHE	Bellevue University
+1356	IHE	Iglesia Bautista Hispana
+1357	IHE	DALLAS CHRISTIAN COLLEGE
+1358	IHE	California University of Pennsylvania
+1359	IHE	Colorado State University Pueblo
+1360	IHE	Milan Institute of Cosmetology
+1361	IHE	Ohio University
+1362	IHE	American Public University
+1363	IHE	Antioch University
+1364	IHE	Post University
+1365	IHE	Regent University
+1366	IHE	Coursera
+1367	IHE	WALDORF UNIVERSITY
+1368	IHE	Waldorf University
+1369	IHE	Eastfield College
+1370	IHE	Ankita Test
+1371	IHE	Ankita Test
+1372	IHE	Virginia College
+1373	IHE	Virginia College
+1374	IHE	Spartan College of Aeronautics and Technology
+1375	IHE	Franklin Barber Institute
+1376	IHE	South Texas Welding School
+1377	IHE	Ysleta Community Learning Center
+1378	IHE	Sunset International Bible Institute
+1379	IHE	The South Texas School of Christian Studies
+1380	IHE	MILLER CRANE WORKS INC
+1381	IHE	The Recording Conservatory of Austin
+1382	IHE	Maximized Life Bible College
+1383	IHE	Udacity
+1384	IHE	Construction Education Foundation of North Texas - CEF
+1385	IHE	College of Biblical Studies
+1386	IHE	Pennsylvania State University
+1387	IHE	Southern New Hampshire University
+1388	IHE	Graduate Institute of Applied Linguistics
+1389	IHE	Construction & Maintenance Education Foundation (CMEF)
+1390	IHE	Eastern Gateway Community College
+1391	IHE	Florida Career College
+1392	IHE	Barber Institute of Texas (BIT)
+1393	IHE	AMERICAN TRUCK DRIVING SCHOOL (ATDS)
+1394	IHE	LAKEWOOD COLLEGE
+1395	IHE	STANFORD UNIVERSITY
+1396	IHE	MOUNTAIN VIEW VOCATIONAL INSTITUTE
+1397	IHE	M WEEKS WELDING LABORATORY TESTING & SCHOOL
+1398	IHE	DALLAS INTERNATIONAL UNIVERSITY
+1399	IHE	CONTINENTAL TRUCK DRIVER TRAINING & EDUCATION SCHO
+1400	IHE	CHAFER THEOLOGICAL SEMINARY
+1401	IHE	GRACE SCHOOL OF THEOLOGY
+1402	IHE	TREND BARBER COLLEGE
+1403	IHE	PIMA MEDICAL INSTITUTE - PMI
+1404	IHE	REGION 9 ESC
+1405	IHE	ED2GO
+1406	IHE	EDGE TECH ACADEMY
+1407	IHE	TRAINING CENTER FOR HEATH CARE CAREERS
+1408	IHE	CRST EXPEDITED
+1409	IHE	Capella University
+1410	IHE	PURDUE GLOBAL CAMPUS
+1411	IHE	LITERACY COUNCIL
+1412	IHE	BRONX BARBER COLLEGE
+1413	IHE	BYU Pathway Worldwide
+1414	IHE	DFW Sheet Metal JATC
+1415	IHE	Christian Leaders Ministries
+1416	IHE	BH Carroll
+1417	IHE	The Ocean Corporation
+1418	IHE	Northcentral University
+1419	IHE	MY COMPUTER CAREER
+1420	IHE	Salem University
+1421	IHE	Sonoran Desert Institute
+1422	IHE	Lamson Institute
+1423	IHE	LOS ANGELES FILM SCHOOL
+1424	IHE	SOUTH UNIVERSITY
+1425	IHE	ECPI University (East Coast Polytechnic Institute)
+1426	IHE	San Jacinto Adult Learning Center
+1427	IHE	MIAT College of Technology
+1428	IHE	Plumbers Local Union Number 68
+1429	IHE	Arizona State University
+1430	IHE	Embry-Riddle Aeronautical University
+1431	IHE	PRIDE Ascend
+1432	IHE	Jays Technical Institute
+1433	IHE	Lincoln College of Technology
+1434	IHE	Acres Home College of Barber Designs
+1435	IHE	ISSA
+1436	IHE	Texas A&M University-Bryan
+1437	IHE	Cornell University
+1438	IHE	Manuel and Theresa's School of Hair Design
+1439	IHE	St Thomas University
+1440	IHE	Del Mar College
+1441	IHE	Ogle School of Skin Hair & Nails
+1442	IHE	Regent University
+1443	IHE	Stark College and Seminary
+1444	IHE	Windham College
+1445	IHE	Associated Builders and Contractors
+1446	IHE	University of Colorado
+1447	IHE	Shalom Bible College & Seminary
+1448	IHE	Christ for the Nations Institute
+1449	IHE	CDL Rapido, Inc
+1450	IHE	Universal Technical Institute
+1451	IHE	Udemy
+1452	IHE	Faith Bible Institute
+1453	IHE	Hair Expressions Barber School
+1454	IHE	Star Career Training Inc
+1455	IHE	Wade Gordon Hairdressing Academy
+1456	IHE	Liberty Tax Service
+1457	IHE	Southern Industrial Careers Center
+1458	IHE	SAGU-Christian University, Bible College Seminary
+1459	IHE	City Vision University
+1460	IHE	Mannequin Beauty School
+1461	IHE	Vision CDL Truck Driving School
+1462	IHE	Miller-Motte Technical College
+1463	IHE	Michigan State University
+1464	IHE	Cypress Bible Institute
+1465	IHE	Upper Iowa University
+1466	IHE	A T Still University
+1467	IHE	Northwest Lineman Center
+1468	IHE	Super Welders Academy
+1469	IHE	Pipefitters Local Union
+1470	IHE	BELLA COSMETOLOGY AND BARBER COLLEGE
+1471	IHE	University of the People
+1472	IHE	Everglades University
+1473	IHE	Academy of Hair Design
+1474	IHE	Oregon Institute of Technology- oit.edu
+1475	IHE	The Los Angeles Film School
+1476	IHE	Escoffier School of Culinary Arts
+1477	IHE	Houston School of Carpentry
+1478	IHE	Neecee's Barber and Cosmetology College
+1479	IHE	American Military University

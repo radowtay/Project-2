@@ -1,0 +1,298 @@
+1	Air Conditioning Contractor	1	9
+2	Registered AC Technician	1	9
+3	Certified AC Technician	1	9
+4	Registration to Purchase Freon Products	1	9
+5	Registered Accessibility Specialist	2	9
+6	Project Registration	2	9
+7	Auctioneer	3	9
+8	Associate Auctioneer	3	9
+9	Class A Barber Certificate	4	9
+10	Manicurist License	4	9
+11	Barber Technician License	4	9
+12	Barber Teacher	4	9
+13	Wig Specialist License	4	9
+14	Barber Student	4	9
+15	Provisional License	4	9
+16	Registered Exam Proctor	4	9
+17	Hair Weaving Specialist	4	9
+18	Hair Braiding Specialist	4	9
+19	Barber Shop	4	9
+20	Manicurist Shop Specialty Shop	4	9
+21	Dual Shop	4	9
+22	Mobile Salon	4	9
+23	Hair Weaving Specialty Shop	4	9
+24	Hair Braiding Specialty Shop	4	9
+25	Barber School Permit	4	9
+26	Barber Booth Rental	4	9
+27	Manicurist Booth Rental	4	9
+28	Hair Weaver Booth Rental	4	9
+29	Hair Braider Booth Rental	4	9
+30	Boiler Inspector	5	9
+31	Boiler Equipment	5	9
+32	Contestant	6	9
+33	Judge	6	9
+34	Manager	6	9
+35	Matchmaker	6	9
+36	Promoter	6	9
+37	Referee	6	9
+38	Second	6	9
+39	Timekeeper	6	9
+40	Ringside Physician	6	9
+41	Amateur Combative Sports Association	6	9
+42	Event Coordinator	6	9
+43	Operator	7	9
+44	Manicurist Specialist	7	9
+45	Facial Specialist	7	9
+46	Hair Weaver Specialist	7	9
+47	Hair Braider Specialist	7	9
+48	Shampoo Specialist	7	9
+49	Wig Specialist Certificate	7	9
+50	Shampoo Apprentice	7	9
+51	Operator Instructor	7	9
+52	Manicurist Instructor	7	9
+53	Facial Instructor	7	9
+54	Wig Instructor	7	9
+55	Cosmetology Student	7	9
+56	Provisional License	7	9
+57	Registered Exam Proctor	7	9
+58	Beauty Culture School	7	9
+59	Beauty Salon	7	9
+60	Manicuring Salon	7	9
+61	Facial Specialty Salon	7	9
+62	Facial/Manicure Salon	7	9
+63	Hair Weaving Specialty Salon	7	9
+64	Hair Braiding Specialty Salon	7	9
+65	Wig Salon	7	9
+66	Mobile Salon	7	9
+67	Dual Salon	7	9
+68	Operator Booth Rental	7	9
+69	Manicurist Booth Rental	7	9
+70	Facialist Booth Rental	7	9
+71	Wig Booth Rental	7	9
+72	Hair Weaver Booth Rental	7	9
+73	Hair Braider Booth Rental	7	9
+74	Operator Instructor Booth Rental	7	9
+75	Manicure Instructor Booth Rental	7	9
+76	Facial Instructor Booth Rental	7	9
+77	Wig Instructor Booth Rental	7	9
+78	Master Electrician	8	9
+79	Master Sign Electrician	8	9
+80	Journeyman Electrician	8	9
+81	Journeyman Sign Electrician	8	9
+82	Residential Wireman	8	9
+83	Maintenance Electrician	8	9
+84	Electrical Apprentice	8	9
+85	Electrical Sign Apprentice	8	9
+86	Residential Appliance Installer	8	9
+87	Electrical Contractor	8	9
+88	Electrical Sign Contractor	8	9
+89	Residential Appliance Installation Contractor	8	9
+90	Elevator Inspector	9	9
+91	Elevator Equipment	9	9
+92	Elevator Contractor	9	9
+93	Identity Recovery Service Provider	10	9
+94	Identity Recovery Service Administrator	10	9
+95	Manufacturer	11	9
+96	Builder	11	9
+97	3rd Party Inspector	11	9
+98	Authorized Inspection Agency	11	9
+99	Design Review Agency	11	9
+100	Permit	11	9
+101	Legal Service Contract Companies	12	9
+102	Legal Service Contract Salespersons	12	9
+103	Legal Service Contract Administrators	12	9
+104	Licensed Court Interpreters	13	9
+105	Loss Damage Waiver Contracts	14	9
+106	Personnel Employment Service	15	9
+107	Polygraph Examiner	16	9
+108	Polygraph Examiner Intern	16	9
+109	Property Tax Consultant	17	9
+110	Sr. Property Tax Consultant	17	9
+111	PTC-Real Property Only	17	9
+112	Service Contract Provider	18	9
+113	Service Contract Administrator	18	9
+114	Staff Leasing Services	19	9
+115	Talent Agencies	20	9
+116	Assessor Collector	21	9
+117	Appraiser	21	9
+118	Collector	21	9
+119	Temporary Common Worker Employer	22	9
+120	Tow Truck Companies	23	9
+121	Incident Management Tow Truck	23	9
+122	Consent Tow Truck	23	9
+123	Private Property Tow Truck	23	9
+125	Consent Tow Truck Operator	24	9
+126	Private Property Tow Truck Operator	24	9
+127	Dual Tow/VSF License	24	9
+128	Training License	24	9
+129	Vehicle Booting Company	24	9
+130	Vehicle Booting Operator	24	9
+131	Used Automotive Parts Recycler	25	9
+132	Used Automotive Parts Employee	25	9
+133	Vehicle Protection Products	26	9
+134	Vehicle Storage Facilities	27	9
+135	Vehicle Storage Facility Employees	27	9
+137	Water Well Driller	28	9
+138	Pump Installer	28	9
+139	Water Well Driller Apprentice	28	9
+140	Pump Installer Apprentice	28	9
+141	Weather Modification License	29	9
+142	Weather Modification Permit	29	9
+143	Court Reporters Certification	30	2
+145	Guardianship Certification	31	4
+146	Certified Process Server	32	4
+147	Registered Architect	33	5
+148	Registered Landscape Architect	33	5
+149	Registered Interior Designer	33	5
+151	Registered Nurse (RN)	36	6
+152	Licensed Vocational Nurse (LVN)	36	6
+153	Advanced Practice Nurses (APN)	36	6
+154	Funeral Director	37	7
+155	Embalmer	37	7
+156	Provisional Funeral Director	37	7
+157	Provisional Embalmer	37	7
+158	Surveyor in Training	38	8
+159	Registered Professional Land Surveyor	38	8
+160	Licensed State Land Surveyor	38	8
+161	Liquefied Petroleum Gas (LPG)/Compressed Natural Gas (CNG) Exempt Registration	39	10
+162	Liquefied Petroleum Gas (LPG), Compressed Natural Gas (CNG), and Liquefied Natural Gas (LNG) Certifi	39	10
+163	Physical Therapist	40	11
+164	Physical Therapist Assistant	40	11
+165	Occupational Therapist	40	11
+166	Occupational Therapy Assistant	40	11
+167	Licensed Certified Public Accountant (CPA)	41	12
+168	Plumber's Apprentice	42	13
+169	Tradesman Plumber-Limited	42	13
+170	Journeyman Plumber	42	13
+171	Master Plumber	42	13
+172	Plumbing Inspector	42	13
+173	Pharmacy Technician	43	14
+174	Pharmacy Technician Trainee	43	14
+175	Pharmacist	43	14
+176	Pharmacist Intern	43	14
+177	Professional Engineer	44	15
+178	Wastewater Treatment System Operator	50	16
+179	Veterinarian	47	17
+180	Equine Dental Provider	47	17
+181	Real Estate Salesperson	49	18
+182	Real Estate Broker	49	18
+183	Easement Right-of-Way	49	18
+184	Proprietary Real Estate School Instructor	49	18
+185	Professional Inspector	49	18
+186	Residential Inspector	49	18
+187	Apprentice Inspector	49	18
+188	General Appraiser	48	19
+189	Residential Appraiser	48	19
+190	State-Licensed Appraiser	48	19
+191	Appraiser Trainee	48	19
+192	Backflow Prevention Assembly Tester	45	16
+193	Landscape Irrigators	51	16
+194	Irrigation Technicians	51	16
+195	Irrigation Inspectors	51	16
+196	LPST Corrective Action Managers	52	16
+197	LPST Corrective Action Specialists	52	16
+198	MSW Facility Supervisors	53	16
+199	OSSF Installers	54	16
+200	OSSF Apprentices	54	16
+201	OSSF Designated Representatives	54	16
+202	OSSF Maintenance Providers	54	16
+203	OSSF Maintenance Technicians	54	16
+204	OSSF Site Evaluators	54	16
+205	Water Treatment Specialist	55	16
+206	UST On-Site Supervisors	56	16
+207	UST Contractors	56	16
+208	Wastewater Collection System Operator	50	16
+209	PWS Water System Operator	57	16
+210	PWS Groundwater System Operator	57	16
+211	PWS Surface Water System Operator	57	16
+212	PWS Distribution System Operator	57	16
+213	Customer Service Inspectors (CSI)	58	16
+214	Specialty - SP	59	20
+215	Adjuster - AJ	59	20
+216	Adjuster - DHS - AJDHS	59	20
+217	County Mutual - CM	59	20
+218	General Lines - GL	59	20
+219	Insurance Service Representative - ISR	59	20
+220	Life and Health Insurance Counselor - LHIC	59	20
+221	Life Insurance not to Exceed $25,000 - LI	59	20
+222	Limited Lines - LL	59	20
+223	Managing General Agent - MGA	59	20
+224	Funeral Prearrangement Life - PN	59	20
+225	Reinsurance Intermediary Broker - RIB	59	20
+226	Risk Manager - RM	59	20
+227	Reinsurance Intermediary Manager - RIM	59	20
+228	Surplus Lines - SL	59	20
+229	Public Insurance Adjuster - PIAJ	59	20
+230	Personal lines Property and Casualty - PLPC	59	20
+231	Life Only - LAGT	59	20
+232	Fireworks Pyrotechnic Operator	60	21
+233	Fireworks Special Effects Operator	60	21
+234	Fireworks Flame Effects Ooperator	60	21
+235	Extinguisher Portables	61	21
+236	Extinguisher Kitchen Systems	61	21
+237	Extinguisher Fixed Systems	61	21
+238	Extinguisher Apprentice	61	21
+239	Extinguisher Planner	61	21
+240	Extinguisher Residential	61	21
+241	Alarm Technician	62	21
+242	Alarm Planner	62	21
+243	Alarm Residential Planner	62	21
+244	Alarm Single Station	62	21
+245	Alarm Residential Technician	62	21
+246	Alarm Monitoring Technician	62	21
+247	Alarm Instructor	62	21
+248	Sprinkler Managing Employee - General	63	21
+249	Sprinkler Managing Employee - Underground	63	21
+250	Sprinkler Managing Employee - Dwelling	63	21
+251	Sprinkler Managing Employee - Inspector	63	21
+252	Sprinkler Managing Employee - General/Dwelling	63	21
+253	Egg Dealer - Wholesaler	64	22
+254	Egg Processor	64	22
+255	Egg Broker	64	22
+256	Handling and Marketing of Perishable Commodities (HMPC)	65	22
+257	Registered Service Technician	66	22
+258	Commercial Pesticide Applicator	67	22
+259	Noncommercial Pesticide Applicator	67	22
+260	Noncommercial Political Applicator	67	22
+261	Structural Pest Control Service Certified Applicator (SPCS)	67	22
+262	Pesticide Private Applicator License	67	22
+263	Structural Pest Control Service Licensed Technician (SPCS)	67	22
+264	Structural Pest Control Service Licensed Apprentice (SPCS)	67	22
+265	Pesticide Dealer	67	22
+266	Certified and Insured Prescribed Burn Managers (CIPBM)	68	22
+267	Prescribed Burn Lead Instructor	68	22
+268	Certified Seed Grower	69	22
+269	Registered Plant Breeder	69	22
+270	Public Weigher	70	22
+271	Attorney/Lawyer	71	23
+272	Dentist	72	24
+273	Dental Hygienist	72	24
+274	Dental Assistant	72	24
+275	Physicians	80	26
+276	Physician Assistants	80	26
+277	Physicians in Training	80	26
+278	Acupuncturists	80	26
+279	Surgical Assistants	80	26
+280	Acu-Detox Providers	80	26
+281	Non-Certified Radiological Technicians	80	26
+282	Salvage Vehicle Agent	81	27
+283	Salvage Vehicle Dealer	81	27
+284	Dealers	81	27
+285	Manufacturers	81	27
+286	Distributors	81	27
+287	Representatives	81	27
+288	Converters	81	27
+289	In Transit	81	27
+290	Lessors	81	27
+291	Lease Facilitators	81	27
+292	Agent's Permit (A)	82	28
+293	Beverage Cartage Permit (PE)	82	28
+294	Certified Emergency Medical Technician - Paramedic (EMT-P)	84	29
+295	Certified Emergency Medical Technician - Intermediate (EMT-I)	84	29
+296	Certified Emergency Medical Technician - Basic (EMT)	84	29
+297	Certified Emergency Care Attendant (ECA)	84	29
+298	Licensed Paramedic	84	29
+299	Asbestos Trainer	85	30
+300	testing	86	31
+301	testing	86	31
+302	Educator Certification	31	32

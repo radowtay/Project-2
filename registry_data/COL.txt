@@ -1,0 +1,545 @@
+1	1	DTE_TMS	date and time of entry	1
+2	1	EVT_TMS	date and time of event	1
+3	1	NAM_TXT	name	1
+4	1	RSN_COD	reason code	1
+5	1	TYP_COD	type	1
+6	1	CAS_IDN	case id	1
+7	1	HOT_IDN	hot id	1
+8	1	MNM_IDN	mnemonic id	1
+9	1	ACT_IDN	activity id	1
+10	1	ACT_XXX	activity id	1
+11	2	STA_COD	state	1
+12	2	ZIP_TXT	zip code	1
+13	2	COU_TXT	county	1
+14	2	PLC_TXT	place name	1
+15	2	CTY_TXT	city	1
+16	2	SNA_TXT	street name	1
+17	2	ADD_IDN	address id	1
+18	2	PER_IDN	person id	1
+19	2	ADD_COD	address type	1
+20	2	SNU_NBR	street/po box number	1
+21	3	SNU_TXT	street number	1
+22	3	SNA_TXT	street name	1
+23	3	CTY_TXT	city	1
+24	3	STA_COD	state	1
+25	3	ZIP_TXT	zip code	1
+26	3	TYP_TXT	type ori	1
+27	3	COU_TXT	county	1
+28	3	STS_COD	status	1
+29	3	CT2_TXT	confirmation number 2	1
+30	3	AN3_TXT	agency name 3	1
+31	3	AGY_IDN	agency id	1
+32	3	ORI_TXT	originating agency identifier	1
+33	3	ATR_TXT	translation	1
+34	3	CT1_TXT	confirmation number 1	1
+35	3	CT3_TXT	confirmation number 3	1
+36	3	AN1_TXT	agency name 1	1
+37	3	AN2_TXT	agency name 2	1
+38	4	MSG_TXT	notification message	1
+39	4	DTE_TMS	date and time of notify	1
+40	4	IAG_NBR	interested agency id	1
+41	4	ANO_IDN	agency notification id	1
+42	5	ATH_COD	authorization code	1
+43	5	AGY_IDN	agency id	1
+44	5	MNM_IDN	mnemonic id	1
+45	5	ATH_IDN	authorization id	1
+46	6	VRC_QTY	value of recovered contraband	1
+47	6	PAR_NBR	person armed code	1
+48	6	HIT_NBR	person hit result code	1
+49	6	STS_COD	status	1
+50	6	VOR_QTY	value of other recovered property	1
+51	6	BEN_TMS	date and time of benefit	1
+52	6	VNP_QTY	value of recovered property	1
+53	6	BEN_IDN	benefit id	1
+54	6	HOT_IDN	hot id	1
+55	6	NPA_QTY	number of person apprehended	1
+56	6	NPF_TXT	number of missing persons found	1
+57	7	BYR_NBR	year	1
+58	7	CGD_NBR	coast guard document number	1
+59	7	HPT_TXT	home port	1
+60	7	HUL_COD	hull material code	1
+61	7	OAN_NBR	owner applied number	1
+62	7	PRO_COD	propulsion code	1
+63	7	VOD_COD	vehicle ownership data code	1
+64	7	BTY_COD	type	1
+65	7	HSP_COD	hull shape code	1
+66	7	BNM_TXT	name	1
+67	7	BCO_COD	color	1
+68	7	HOT_IDN	hot id	1
+69	7	BOA_IDN	boat id	1
+70	7	BMA_COD	make	1
+71	7	BMO_COD	model	1
+72	7	HIN_NBR	hull number	1
+73	7	BLE_TXT	length	1
+74	8	RET_TMS	registration date and time retirement	1
+75	8	REY_NBR	registration year of expiration	1
+76	8	RES_COD	registration state code	1
+77	8	REG_NBR	registration number	1
+78	8	REX_COD	registration expire indicator	1
+79	8	BOA_IDN	boat id	1
+80	8	BRG_IDN	boat registration id	1
+81	9	BDY_NBR	body part number	1
+82	9	BDY_COD	body part status	1
+83	9	PER_IDN	person id	1
+84	9	BDY_IDN	body part id	1
+85	10	PER_IDN	person id	1
+86	10	DUK_COD	unknown day code	1
+87	10	DUM_COD	unknown month code	1
+88	10	DOB_DTE	date of birth	1
+89	10	TYP_COD	type	1
+90	10	DOB_IDN	birthdate id	1
+91	11	OCA_NBR	number	1
+92	11	CAS_IDN	case id	1
+93	11	AGY_IDN	agency id	1
+94	11	DTE_TMS	date and time of entry	1
+95	12	COL_COD	column code	1
+96	12	COL_IDN	column id	1
+97	12	TBL_IDN	table id	1
+98	12	COL_TXT	column name	1
+99	13	MPA_COD	model photo indicator code	1
+100	13	DRE_TXT	dentist remarks	1
+101	13	DXR_COD	xrays indicator code	1
+102	13	STS_COD	status	1
+103	13	PER_IDN	person id	1
+104	13	DNT_IDN	dental id	1
+105	14	PWD_TXT	verification password	1
+106	14	PER_IDN	person id	1
+107	15	GRF_IDN	group reference id	1
+108	15	BAS_COD	base indicator	1
+109	15	VAL_TXT	value	1
+110	15	GCH_IDN	group characteristic id	1
+111	15	MFC_COD	message field code	1
+112	16	GCN_IDN	group contact id	1
+113	16	GRF_IDN	group reference id	1
+114	16	AGY_IDN	agency id	1
+115	16	POC_TXT	point of contact	1
+116	16	USR_COD	user code	1
+117	16	PRI_COD	primary indicator	1
+118	16	DTE_TMS	date and time of entry	1
+119	16	RET_TMS	date and time retirement	1
+120	17	DNA_COD	dna available	1
+121	17	DOE_DTE	date of emancipation	1
+122	17	ENI_COD	emancipation notification indicator	1
+123	17	GRF_IDN	group reference id	1
+124	17	ECR_COD	entry criteria	1
+125	17	PER_IDN	person id	1
+126	17	DOP_DTE	date of purge	1
+127	18	SGP_COD	subgroup code	1
+128	18	CAT_COD	category	1
+129	18	GRP_COD	group code	1
+130	18	HOT_IDN	hot id	1
+131	18	GRF_IDN	group reference id	1
+132	19	CAL_QTY	caliber	1
+133	19	MOD_TXT	model	1
+134	19	TYP_TXT	type	1
+135	19	MAK_TXT	make	1
+136	19	SER_NBR	serial number	1
+137	19	CAT_COD	category	1
+138	19	HOT_IDN	hot id	1
+139	19	GUN_IDN	gun id	1
+140	20	TYP_COD	type	1
+141	20	STS_COD	status	1
+142	20	CAF_COD	caution indicator	1
+143	20	NIC_NBR	nic number	1
+144	20	MIS_TXT	miscellaneous	1
+145	20	HOT_IDN	hot id	1
+146	21	RET_TMS	date and time retirement	1
+147	21	HOT_IDN	hot id	1
+148	21	HIM_IDN	hot image id	1
+149	21	IMG_IDN	image group id	1
+150	21	DTE_TMS	date and time of entry	1
+151	22	IMG_IMG	image	1
+152	22	IGR_IDN	image group id	1
+153	22	IMG_IDN	image id	1
+154	23	STS_COD	status	1
+155	23	IMT_COD	type	1
+156	23	DTE_TMS	date and time of entry	1
+157	23	BCT_QTY	byte count	1
+158	23	RET_TMS	date and time retirement	1
+159	23	DOC_DTE	date of cancellation	1
+160	23	DOI_DTE	date of image	1
+161	23	IGR_IDN	image group id	1
+162	23	MNM_IDN	mnemonic id	1
+163	23	AGY_IDN	agency id	1
+164	23	IMN_NBR	nic number	1
+165	24	NOA_COD	notification indicator	1
+166	24	HOT_IDN	hot id	1
+167	24	MNM_IDN	mnemonic id	1
+168	24	IAG_IDN	interested agency id	1
+169	25	LIS_COD	license plate state	1
+170	25	LIY_NBR	license plate year	1
+171	25	EXP_COD	license plate expire indicator	1
+172	25	RET_TMS	license date and time of retirement	1
+173	25	LIT_COD	license plate type	1
+174	25	LIC_NBR	license plate number	1
+175	25	LIC_IDN	license plate id	1
+176	25	VEH_IDN	vehicle id	1
+177	25	PER_IDN	person id	1
+178	25	HOT_IDN	hot id	1
+179	26	DTS_TMS	date timestamp	1
+180	26	TID_TXT	terminal id	1
+181	26	AUD_TXT	audit record	1
+182	26	ACT_TXT	action	1
+183	26	LOG_IDN	log id	1
+184	26	LID_TXT	logon id	1
+185	27	LTC_NBR	license to carry number	1
+186	27	PER_IDN	person id	1
+187	27	FTD_COD	failed to display	1
+188	27	LTC_COD	license to carry status	1
+189	27	GAC_COD	gun action type	1
+190	27	LTC_DTE	license to carry status date	1
+191	28	BLT_COD	blood type code	1
+192	28	BXR_COD	body xrays code	1
+193	28	CRC_COD	circumcision code	1
+194	28	FPA_COD	footprint available	1
+195	28	VRX_TXT	corrective vision prescription	1
+196	28	DIS_COD	disposition	1
+197	28	JWL_TXT	jewelry description text	1
+198	28	DOE_DTE	date of emancipation	1
+199	28	MNP_COD	person code	1
+200	28	PER_IDN	person id	1
+201	28	MIF_COD	missing person interest code	1
+202	28	JWT_COD	jewelry type code	1
+203	28	ENI_FLG	emancipation notification indicator	1
+204	28	MPC_COD	circumstance code	1
+205	29	EXP_DTE	expiration date	1
+206	29	MNM_COD	mnemonic	1
+207	29	TRM_COD	terminal code	1
+208	29	AGY_IDN	agency id	1
+209	29	PMN_IDN	parent mnemonic id	1
+210	29	MNM_IDN	mnemonic id	1
+211	30	NAM_IDN	name id	1
+212	30	TYP_COD	type	1
+213	30	NYS_TXT	nysiis name	1
+214	30	FNA_TXT	first name	1
+215	30	PER_IDN	person id	1
+216	30	NAM_TXT	name	1
+217	30	LNA_TXT	last name	1
+218	30	FIN_TXT	first initial	1
+219	31	OPR_IDN	operator id	1
+220	31	PER_IDN	person id	1
+221	31	OLN_NBR	number	1
+222	31	OLS_COD	state	1
+223	31	TYP_COD	type	1
+224	31	OLY_NBR	year of expiration	1
+225	32	ACT_DTE	activity date	1
+226	32	ACT_IDN	activity id	1
+227	32	PER_IDN	person id	1
+228	32	ACT_TXT	activity description	1
+229	32	DOE_DTE	date and time of entry	1
+230	33	PRL_IDN	person relation id	1
+231	33	REL_DTE	date	1
+232	33	TYP_COD	type	1
+233	33	PEL_IDN	related person id	1
+234	33	PER_IDN	person id	1
+235	34	BAS_COD	base indicator	1
+236	34	EYE_COD	eye color	1
+237	34	CTZ_COD	citizenship	1
+238	34	ETH_COD	ethnicity	1
+239	34	RAC_COD	race	1
+240	34	SEX_COD	sex	1
+241	34	FPC_COD	fingerprint classification code	1
+242	34	CAT_COD	category	1
+243	34	HOT_IDN	hot id	1
+244	34	PER_IDN	person id	1
+245	34	HGT_QTY	height	1
+246	34	WGT_QTY	weight	1
+247	34	FBI_NBR	fbi number	1
+248	34	SID_NBR	sid number	1
+249	34	SKN_COD	skin tone	1
+250	34	POB_COD	place of birth code	1
+251	34	HFC_COD	facial hair	1
+252	34	HST_COD	hair style	1
+253	34	HLN_COD	hair length	1
+254	34	HAI_COD	hair color	1
+255	35	TNO_NBR	phone number	1
+256	35	TNO_COD	phone type	1
+257	35	PER_IDN	person id	1
+258	35	TNO_IDN	phone id	1
+259	36	BRD_COD	brady indicator	1
+260	36	PER_IDN	person id	1
+261	36	EXP_DTE	date of expiration	1
+262	36	CTI_NBR	court ori	1
+263	36	PNO_NBR	protection order number	1
+264	37	PUB_COD	publication type	1
+265	37	PUB_IDN	publication id	1
+266	37	PUB_DTE	publication entry date	1
+267	37	PER_IDN	person id	1
+268	37	PUR_DTE	publication removal date	1
+269	38	DNL_TXT	dna location	1
+270	38	DNA_COD	dna available	1
+271	38	PLC_COD	place of crime	1
+272	38	CNV_DTE	date of conviction	1
+273	38	CRR_COD	registration conviction code	1
+274	38	SXP_COD	sexual predator indicator	1
+275	38	ERG_DTE	ending registration date	1
+276	38	PER_IDN	person id	1
+277	39	VAL_TXT	value	1
+278	39	SUP_IDN	supplemental id	1
+279	39	PER_IDN	person id	1
+280	39	TYP_COD	type	1
+281	39	MFC_COD	message field code	1
+282	40	UPD_TXT	update program name	1
+283	40	INQ_TXT	inquiry program name	1
+284	40	TBL_TXT	table name	1
+285	40	TBL_COD	table code	1
+286	40	TBL_IDN	table id	1
+287	41	DIS_COD	distal code	1
+288	41	DCB_COD	buccal code	1
+289	41	DCR_COD	removable appliances code	1
+290	41	DNL_COD	lingual code	1
+291	41	DCT_COD	other characteristics code	1
+292	41	DCM_COD	mesial code	1
+293	41	DCO_COD	occlusal code	1
+294	41	TTH_IDN	tooth id	1
+295	41	DNT_IDN	dental id	1
+296	41	DCN_COD	number code	1
+297	41	DCS_COD	status	1
+298	42	CDA_COD	cause of death desc	1
+299	42	MDA_COD	manner of death code	1
+300	42	YBL_QTY	approximate year of birth lower	1
+301	42	YBU_QTY	approximate year of birth upper	1
+302	42	UDU_COD	unknown day code	1
+303	42	UMU_COD	unknown month code	1
+304	42	EDD_DTE	date of death	1
+305	42	EDD_TXT	date of death text	1
+306	42	MAT_NBR	medical examiner telephone number	1
+307	42	MAL_TXT	medical examiner locality	1
+308	42	MAN_TXT	medical examiner name and case number	1
+309	42	JWL_TXT	jewelry description text	1
+310	42	BPS_COD	body parts status	1
+311	42	PER_IDN	person id	1
+312	42	JWT_COD	jewelry type code	1
+313	42	HLO_QTY	approximate height lower	1
+314	42	HUP_QTY	approximate height upper	1
+315	42	WLO_QTY	approximate weight lower	1
+316	42	WUP_QTY	approximate weight upper	1
+317	42	BLT_COD	blood type code	1
+318	42	BXR_COD	body xrays code	1
+319	42	CRC_COD	circumcision code	1
+320	42	FPA_COD	footprint available	1
+321	42	VRX_TXT	corrective vision prescription	1
+322	43	VAL_COD	value code	1
+323	43	VAL_TXT	value name	1
+324	43	COL_IDN	column id	1
+325	43	VAL_IDN	value id	1
+326	44	VST_COD	style	1
+327	44	OAN_NBR	owner applied number	1
+328	44	VOD_COD	vehicle ownership data	1
+329	44	STR_COD	state of registration	1
+330	44	DCL_COD	decal type code	1
+331	44	DSN_NBR	decal sticker number	1
+332	44	DST_COD	decal status	1
+333	44	DST_DAT	decal status date	1
+334	44	VYR_NBR	year	1
+335	44	PND_TXT	impoundment place	1
+336	44	VEH_IDN	vehicle id	1
+337	44	PER_IDN	person id	1
+338	44	HOT_IDN	hot id	1
+339	44	VCA_COD	category	1
+340	44	VIN_NBR	vehicle identification number	1
+341	44	VMA_COD	make	1
+342	44	VMO_COD	model	1
+343	44	VCO_COD	color	1
+344	45	OFF_COD	offense code	1
+345	45	WNO_NBR	warrant number	1
+346	45	OOC_COD	original offense code	1
+347	45	CTI_NBR	court ori	1
+348	45	DOE_DTE	date of emancipation	1
+349	45	EXT_COD	extradition indicator	1
+350	45	PER_IDN	person id	1
+351	45	ENI_COD	emancipation notification indicator	1
+352	44	VMT_COD	vehicle make type	1
+353	42	CDA_COD	Manner and Cause of Death	1
+354	42	BXR_XXX	Body X-Rays Available	1
+355	42	CRC_XXX	Circumcision	1
+357	34	RPP_COD	RELATION TO PROTECTED PERSON	1
+358	46	THR_COD	reason for threat	1
+359	46	THT_COD	type of threat	1
+1000000	46	LCL_COD		1
+1000001	47	CON_COD	Offense Code	1
+1000002	47	CPN_NBR	Court Provision Numeric	1
+1000003	47	CDN_COD	Court Disposition Numeric	1
+1000004	47	DDA_COD	Arrest Disposition Numeric	1
+1000005	47	FCD_NBR	Final Court Decision on an Appeal	1
+1000006	47	MCC_COD	Multiple Sentences	1
+1000007	47	GOC_COD	General Offense	1
+1000008	47	FPO_COD	Final Plea	1
+1000009	49	PAF_COD	Prosecutor Action	1
+1000010	48	TYP_COD	CCH Transaction Type	1
+1000011	1000006	CDC_COL	dummy cdc column for validation	1
+1000012	1000007	CTP_COD	Court program code	1
+1000013	1000007	PGM_COD	Juvenile program type	1
+1000014	1000007	TYP_COD	CCH Transaction Type	1
+1000015	1000008	CAT_TXT	Disposition Category	1
+1000016	1000008	CDN_COD	Court Disposition Numeric	1
+1000017	1000008	CON_COD	Offense Code	1
+1000018	1000008	CPN_NBR	Court Provision Numeric	1
+1000019	1000008	CSC_COD	Court Status Change	1
+1000020	1000008	DDA_COD	Arrest Disposition Numeric	1
+1000021	1000008	FCD_COD	Final Court Decision on an Appeal	1
+1000022	1000008	FPO_COD	Final Plea	1
+1000023	1000008	GOC_COD	General Offense	1
+1000024	1000008	MCC_COD	Multiple Sentences	1
+1000025	1000009	COC_COD	County of Commitment	1
+1000026	1000009	REC_COD	County of Commitment	1
+1000027	1000009	SCC_COD	Status Change Character	1
+1000028	1000009	SSN_COD	Status Supervision Numeric	1
+1000029	1000010	DST_IDN	destination id	1
+1000030	1000010	DST_TXT	destination full name	1
+1000031	1000010	PRT_COD	destination type	1
+1000032	1000010	PRT_TXT	destination short name	1
+1000033	1000010	TYP_COD	destination - mail or ftp, etc	1
+1000034	1000011	BEG_TMS	begin timestamp	1
+1000035	1000011	DIS_IDN	distribution id	1
+1000036	1000011	END_TMS	end timestamp	1
+1000037	1000011	IDE_IDN	interface destination id	1
+1000038	1000011	OCR_NBR	occurrences	1
+1000039	1000012	CRD_COD		1
+1000040	1000012	CTS_COD		1
+1000041	1000012	DPS_NBR	DPS Number	1
+1000042	1000012	FIF_COD		1
+1000043	1000012	FLA_COD		1
+1000044	1000012	III_COD		1
+1000045	1000012	IND_IDN	key	1
+1000046	1000012	MIS_TXT		1
+1000047	1000012	NCP_COD		1
+1000048	1000012	REL_IDN		1
+1000049	1000012	TYP_COD	Individual type	1
+1000050	1000013	DST_IDN	destination fk	1
+1000051	1000013	DTS_TMS	date and/or time	1
+1000052	1000013	IDE_IDN	interface destination id	1
+1000053	1000013	INT_IDN	interface fk	1
+1000054	1000013	PRD_COD	frequency	1
+1000055	1000014	DES_TXT	full name of object	1
+1000056	1000014	FMT_COD	file format	1
+1000057	1000014	INT_IDN	interface id	1
+1000058	1000014	MED_COD	type of media	1
+1000059	1000014	NAM_COD	short name of object	1
+1000060	1000014	TYP_COD	type	1
+1000061	1000015	ADN_COD	Arrest Disposition Numeric	1
+1000062	1000015	DMV_COD	Domestic Violence Indicator	1
+1000063	1000015	GOC_COD	General Offense Character - Arrest	1
+1000064	1000015	LDA_COD	Level and degree of arrest offense	1
+1000065	1000015	TRS_IDN	fk to TRS	1
+1000066	1000016	PAF_COD	Prosecutor action field	1
+1000067	1000017	IDE_IDN	interface destination id parent	1
+1000068	1000017	IDR_IDN	interface destination id dependent	1
+1000069	1000017	REL_IDN	related destination id	1
+1000070	1000018	TYP_COD	Type code	1
+1000071	1000019	GUN_COD	Presence/Use of Firearm	1
+1000072	1000019	IND_IDN	fk to indv	1
+1000073	1000019	JUV_COD	juvenile status	1
+1000074	1000019	STS_COD	TRN status	1
+1000075	1000019	TRN_IDN	key	1
+1000076	1000020	OPC_COD	OFF_COD, PRO_COD and CRS_COD	1
+1000077	1000020	TRN_IDN	fk to trn	1
+1000078	1000020	TRS_IDN	key	1
+1000079	25	CMV_COD	Commercial Motor Vehicle	1
+1000080	25	HAZ_COD	Hazardous Materials	1
+1000081	31	OLT_COD	licence type	1
+1000082	34	IND_IDN	link to indv table	1
+1000083	1000021	PER_IDN	PERSON ID	1
+1000084	1000021	PWD_TXT	VERIFICATION PASSWORD	1
+1000085	1000021	IDT_COD	IDENTITY THEFT TYPE	1
+1000086	1000008	AGY_TXT		1
+1000087	1000008	ARC_TXT		1
+1000088	1000008	CAU_NBR		1
+1000089	1000008	CDD_DTE		1
+1000090	1000006	VEN_COL	dummy cdc vendor column	1
+1000091	1000008	CFN_QTY		1
+1000092	1000008	CMT_COD		1
+1000093	1000008	COL_TXT		1
+1000094	1000022	POS_COD	Pose offset	1
+1000095	1000008	CPL_TXT		1
+1000096	1000022	TYP_COD	Image type	1
+1000097	1000008	CPR_COD		1
+1000098	1000008	CRS_IDN		1
+1000099	1000023	IMG_COD	Type of image	1
+1000100	1000008	CSF_QTY		1
+1000101	1000008	CSS_COD		1
+1000102	1000008	CST_QTY		1
+1000103	1000008	DCA_DTE		1
+1000105	1000008	DMV_COD		1
+1000106	1000008	DOS_DTE		1
+1000110	1000008	LDC_COD		1
+1000112	1000008	TRS_IDN		1
+1000113	1000009	AGY_TXT		1
+1000114	1000009	CRN_NBR		1
+1000115	1000009	DOO_DTE		1
+1000116	1000009	IND_IDN		1
+1000117	1000009	PID_NBR		1
+1000118	1000009	SLE_TXT		1
+1000119	1000009	SSD_DTE		1
+1000120	1000009	SXD_DTE		1
+1000121	1000009	UNT_DTE		1
+1000122	1000025	LAN_TXT	Language code is written in	1
+1000123	1000025	TYP_COD	Environment code runs in	1
+1000124	45	EXL_COD	Extradition limitation	1
+1000125	1000026	DAT_COD	DATA TYPE	1
+1000126	1000027	DAT_COD	DATA TYPE	1
+1000127	1000028	DAT_COD	DATA TYPE	1
+1000128	1000029	MKE_COD	 	366
+1000129	1000018	ORI_TXT	Originating Agency Identifier	450
+1000130	1000030	MNU_LIKE	String used to match MNU	604
+1000131	1000031	ERR_COD	Worklist Paper Trans Error Descriptions	2845
+1000132	1000031	LEVEL	Worklist Paper Trans Error Level	2845
+1000133	1000031	DATA	Worklist Paper Trans Error Data	2845
+1000134	1000030	PUR_COD	Applicant rapsheet purpose codes	3889
+1000135	1000030	FIL_FMT	Applicant report file formats	3889
+1000136	1000032	REPORTS	FILE FORMAT	3889
+1000137	1000009	SSN_REC	Mandatory/Prohibited xref	4251
+1000138	1000009	SSN_UNT	Mandatory/Prohibited/Optional xref	4251
+1000140	1000008	CDN_CMT	Mandatory/Prohibited/Optional xref	4657
+1000141	1000008	CDN_CPN	Mandatory/Prohibited/Optional xref	4657
+1000142	1000008	CDN_CPR	Mandatory/Prohibited/Optional xref	4657
+1000143	1000008	CDN_CSS	Mandatory/Prohibited/Optional xref	4657
+1000144	1000008	CDN_DOS	Mandatory/Prohibited/Optional xref	4657
+1000146	1000016	PAF_ACT	Mandatory/Prohibited/Optional xref	4658
+1000147	1000033	TOA_COD	type of abuse	6072
+1000149	1000033	CTI_NBR	court ORI	6072
+1000150	1000033	CTD_TXT	court name	6072
+1000151	2	ADD_TYP	address type	6074
+1000152	1000034	OPENARST	Arrest disposition is open (Y/N)	10398
+1000153	1000034	PRO_DISP	Considered juvenile pros disp (Y/N)	10398
+1000154	1000035	PCA_COD	Category of Prohibited Persons	11348
+1000155	1000012	DHS_COD	 	20603
+1000156	34	ETN_COD	ETHNICITY	23773
+1000158	1000030	DLV_MTH	Applicant delivery method	24613
+1000159	1000030	STAT_COD	Applicant status code	24613
+1000162	1000035	CASE_TYP	Case Type	25616
+1000163	38	TIR_NBR	tier level	31349
+1000164	1000036	VIC_IDN	victim id	31349
+1000165	1000036	TYP_COD	type code	31349
+1000166	1000036	ROV_COD	relation of victim	31349
+1000167	1000036	AOV_COD	age of victim	31349
+1000168	1000036	SOV_COD	sex of victim	31349
+1000169	1000037	PLN_IDN	professional license id	31349
+1000170	1000037	PER_IDN	person id	31349
+1000171	1000037	TYP_COD	type code	31349
+1000172	1000037	PLN_NBR	professional license number	31349
+1000173	1000037	PLT_COD	professional license code	31349
+1000174	44	VOW_COD	vehicle ownership code	31349
+1000175	1000038	VPC_COD	VIOLENT PERSON CRITERIA CODE	33188
+1000176	36	SVC_COD	SERVICE INFORMATION CODES	33188
+1000177	1000012	DST_COD	DHS_STATUS	33666
+1000178	1000012	DTP_COD	DHS_TYPE	33666
+1000180	1000034	CANJSEAL	N if not eligible for Juv Seal Notice	38641
+1000181	1000040	REASON	Reason for deactivation	39552
+1000182	1000018	NODELTYP	Valid ORI but has no act delivery types	39875
+1000183	1000041	NAM_TXT	NICS Supplemental Field Name	45304
+1000184	1000041	VAL_TXT	NICS Supplemental Field Value	45304
+1000185	1000042	OFF_GRPA	Arrest after Conviction of	48081
+1000186	1000042	OFF_GRPB	Group A exceptions	48079
+1000187	1000042	OFF_GRPC	Convicted of after 2/1/2002	56827
+1000188	1000042	OFF_GRPD	Convicted of after 9/1/2015	48079
+1000189	1000042	OFF_GRPE	Convicted of after 9/1/2017	48079
+1000190	1000034	FLNYCNVT	Y for felony conviction rapseet header	49165
+1000191	34	DNA_COD	DNA Available	49681
+1000192	1000043	OFF_COD	Offense Codes for Category Relationships	52437
+1000193	1000043	DHS_CAT	Offense Code Categories for DHS Reports	52437
+1000194	1000042	OFF_V2	Arrest for after 9/1/2019	56827
+1000195	1000030	DEST	DEST.DST_IDN	59492
+1000196	1000044	TOB_COD	CONDITIONS OF BOND TYPE CODE	61965
+1000197	1000044	COB_COD	CONDITIONS OF BOND BOND CONDITION CODE	61965
+1000198	1000006	VEN_ABR	dummy cdc vendor abbreviation column	63508

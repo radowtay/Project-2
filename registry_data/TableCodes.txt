@@ -1,0 +1,200 @@
+crs	PERSON	RAC_COD	A	ASIAN	crs_PERSON_RAC_COD_A
+crs	PERSON	RAC_COD	B	BLACK	crs_PERSON_RAC_COD_B
+crs	PERSON	RAC_COD	I	AMERICAN INDIAN	crs_PERSON_RAC_COD_I
+crs	PERSON	RAC_COD	U	UNKNOWN	crs_PERSON_RAC_COD_U
+crs	PERSON	RAC_COD	W	WHITE	crs_PERSON_RAC_COD_W
+registry	AddressEvent	PDV_COD	ABS	Absconded	registry_AddressEvent_PDV_COD_ABS
+registry	AddressEvent	PDV_COD	CWS	Certain Workers or Students	registry_AddressEvent_PDV_COD_CWS
+registry	AddressEvent	PDV_COD	DEC	Deceased	registry_AddressEvent_PDV_COD_DEC
+registry	AddressEvent	PDV_COD	DEP	Deported	registry_AddressEvent_PDV_COD_DEP
+registry	AddressEvent	PDV_COD	IMM	Immigration	registry_AddressEvent_PDV_COD_IMM
+registry	AddressEvent	PDV_COD	INC	Incarcerated	registry_AddressEvent_PDV_COD_INC
+registry	AddressEvent	PDV_COD	MOV	Relocation	registry_AddressEvent_PDV_COD_MOV
+registry	AddressEvent	PDV_COD	NON	None	registry_AddressEvent_PDV_COD_NON
+registry	AddressEvent	PDV_COD	OOC	Out of Country	registry_AddressEvent_PDV_COD_OOC
+registry	AddressEvent	PDV_COD	OOS	Out of State	registry_AddressEvent_PDV_COD_OOS
+registry	AddressEvent	PDV_COD	REL	Relocation	registry_AddressEvent_PDV_COD_REL
+registry	AddressEvent	PDV_COD	TRA	Transient	registry_AddressEvent_PDV_COD_TRA
+registry	AddressEvent	PDV_COD	UNK	Unknown	registry_AddressEvent_PDV_COD_UNK
+registry	AddressEvent	PDV_COD	USM	US Marshall	registry_AddressEvent_PDV_COD_USM
+registry	AddressEvent	PDV_COD	VAL	Texas Resident	registry_AddressEvent_PDV_COD_VAL
+registry	EducationEvent	PDV_COD	NON	None	registry_EducationEvent_PDV_COD_NON
+registry	EducationEvent	PDV_COD	UNL	Unlisted	registry_EducationEvent_PDV_COD_UNL
+registry	EducationEvent	PDV_COD	VAL	Value	registry_EducationEvent_PDV_COD_VAL
+registry	EmailEvent	PDV_COD	NON	None	registry_EmailEvent_PDV_COD_NON
+registry	EmailEvent	PDV_COD	UNK	Unknown	registry_EmailEvent_PDV_COD_UNK
+registry	EmailEvent	PDV_COD	VAL	Value	registry_EmailEvent_PDV_COD_VAL
+registry	INDV	BLT_COD	ABNEG	AB-	registry_INDV_BLT_COD_ABNEG
+registry	INDV	BLT_COD	ABPOS	AB+	registry_INDV_BLT_COD_ABPOS
+registry	INDV	BLT_COD	ABUNK	AB?	registry_INDV_BLT_COD_ABUNK
+registry	INDV	BLT_COD	ANEG	A-	registry_INDV_BLT_COD_ANEG
+registry	INDV	BLT_COD	APOS	A+	registry_INDV_BLT_COD_APOS
+registry	INDV	BLT_COD	AUNK	A?	registry_INDV_BLT_COD_AUNK
+registry	INDV	BLT_COD	BNEG	B-	registry_INDV_BLT_COD_BNEG
+registry	INDV	BLT_COD	BPOS	B+	registry_INDV_BLT_COD_BPOS
+registry	INDV	BLT_COD	BUNK	B?	registry_INDV_BLT_COD_BUNK
+registry	INDV	BLT_COD	ONEG	O-	registry_INDV_BLT_COD_ONEG
+registry	INDV	BLT_COD	OPOS	O+	registry_INDV_BLT_COD_OPOS
+registry	INDV	BLT_COD	OUNK	O?	registry_INDV_BLT_COD_OUNK
+registry	INDV	BLT_COD	UNK	Unknown	registry_INDV_BLT_COD_UNK
+registry	INDV	PUB_COD	J	Non-Public (Juvenile)	registry_INDV_PUB_COD_J
+registry	INDV	PUB_COD	N	Non-Public	registry_INDV_PUB_COD_N
+registry	INDV	PUB_COD	P	Public	registry_INDV_PUB_COD_P
+registry	INDV	PUB_COD	U	Unknown/Not Specified	registry_INDV_PUB_COD_U
+registry	INDV	RSK_COD	1	High	registry_INDV_RSK_COD_1
+registry	INDV	RSK_COD	2	Moderate	registry_INDV_RSK_COD_2
+registry	INDV	RSK_COD	3	Low	registry_INDV_RSK_COD_3
+registry	INDV	RSK_COD	C	Civil Commitment	registry_INDV_RSK_COD_C
+registry	INDV	RSK_COD	N	Not Reported	registry_INDV_RSK_COD_N
+registry	INDV	RSK_COD	U	Unknown	registry_INDV_RSK_COD_U
+registry	INDV	SSZ_COD	020	02	registry_INDV_SSZ_COD_020
+registry	INDV	SSZ_COD	025	02«	registry_INDV_SSZ_COD_025
+registry	INDV	SSZ_COD	030	03	registry_INDV_SSZ_COD_030
+registry	INDV	SSZ_COD	035	03«	registry_INDV_SSZ_COD_035
+registry	INDV	SSZ_COD	040	04	registry_INDV_SSZ_COD_040
+registry	INDV	SSZ_COD	045	04«	registry_INDV_SSZ_COD_045
+registry	INDV	SSZ_COD	050	05	registry_INDV_SSZ_COD_050
+registry	INDV	SSZ_COD	055	05«	registry_INDV_SSZ_COD_055
+registry	INDV	SSZ_COD	060	06	registry_INDV_SSZ_COD_060
+registry	INDV	SSZ_COD	065	06«	registry_INDV_SSZ_COD_065
+registry	INDV	SSZ_COD	070	07	registry_INDV_SSZ_COD_070
+registry	INDV	SSZ_COD	075	07«	registry_INDV_SSZ_COD_075
+registry	INDV	SSZ_COD	080	08	registry_INDV_SSZ_COD_080
+registry	INDV	SSZ_COD	085	08«	registry_INDV_SSZ_COD_085
+registry	INDV	SSZ_COD	090	09	registry_INDV_SSZ_COD_090
+registry	INDV	SSZ_COD	095	09«	registry_INDV_SSZ_COD_095
+registry	INDV	SSZ_COD	100	10	registry_INDV_SSZ_COD_100
+registry	INDV	SSZ_COD	105	10«	registry_INDV_SSZ_COD_105
+registry	INDV	SSZ_COD	110	11	registry_INDV_SSZ_COD_110
+registry	INDV	SSZ_COD	115	11«	registry_INDV_SSZ_COD_115
+registry	INDV	SSZ_COD	120	12	registry_INDV_SSZ_COD_120
+registry	INDV	SSZ_COD	125	12«	registry_INDV_SSZ_COD_125
+registry	INDV	SSZ_COD	130	13	registry_INDV_SSZ_COD_130
+registry	INDV	SSZ_COD	135	13«	registry_INDV_SSZ_COD_135
+registry	INDV	SSZ_COD	140	14	registry_INDV_SSZ_COD_140
+registry	INDV	SSZ_COD	145	14«	registry_INDV_SSZ_COD_145
+registry	INDV	SSZ_COD	150	15	registry_INDV_SSZ_COD_150
+registry	INDV	SSZ_COD	155	15«	registry_INDV_SSZ_COD_155
+registry	INDV	SSZ_COD	160	16	registry_INDV_SSZ_COD_160
+registry	INDV	SSZ_COD	165	16«	registry_INDV_SSZ_COD_165
+registry	INDV	SSZ_COD	170	17	registry_INDV_SSZ_COD_170
+registry	INDV	SSZ_COD	175	17«	registry_INDV_SSZ_COD_175
+registry	INDV	SSZ_COD	180	18	registry_INDV_SSZ_COD_180
+registry	INDV	SSZ_COD	185	18«	registry_INDV_SSZ_COD_185
+registry	INDV	SSZ_COD	190	19	registry_INDV_SSZ_COD_190
+registry	INDV	SSZ_COD	195	19«	registry_INDV_SSZ_COD_195
+registry	INDV	SSZ_COD	UNK	Unknown	registry_INDV_SSZ_COD_UNK
+registry	INDV	SWD_COD	A	A	registry_INDV_SWD_COD_A
+registry	INDV	SWD_COD	AA	AA	registry_INDV_SWD_COD_AA
+registry	INDV	SWD_COD	AAA	AAA	registry_INDV_SWD_COD_AAA
+registry	INDV	SWD_COD	B	B	registry_INDV_SWD_COD_B
+registry	INDV	SWD_COD	BB	BB	registry_INDV_SWD_COD_BB
+registry	INDV	SWD_COD	BBB	BBB	registry_INDV_SWD_COD_BBB
+registry	INDV	SWD_COD	C	C	registry_INDV_SWD_COD_C
+registry	INDV	SWD_COD	CC	CC	registry_INDV_SWD_COD_CC
+registry	INDV	SWD_COD	CCC	CCC	registry_INDV_SWD_COD_CCC
+registry	INDV	SWD_COD	D	D	registry_INDV_SWD_COD_D
+registry	INDV	SWD_COD	DD	DD	registry_INDV_SWD_COD_DD
+registry	INDV	SWD_COD	DDD	DDD	registry_INDV_SWD_COD_DDD
+registry	INDV	SWD_COD	E	E	registry_INDV_SWD_COD_E
+registry	INDV	SWD_COD	EE	EE	registry_INDV_SWD_COD_EE
+registry	INDV	SWD_COD	EEE	EEE	registry_INDV_SWD_COD_EEE
+registry	INDV	SWD_COD	UNK	Unknown	registry_INDV_SWD_COD_UNK
+registry	INDV	VRP_COD	A	Annually	registry_INDV_VRP_COD_A
+registry	INDV	VRP_COD	M	Monthly	registry_INDV_VRP_COD_M
+registry	INDV	VRP_COD	Q	Quarterly	registry_INDV_VRP_COD_Q
+registry	InternetIdentifierEvent	PDV_COD	NON	None	registry_InternetIdentifierEvent_PDV_COD_NON
+registry	InternetIdentifierEvent	PDV_COD	UNK	Unknown	registry_InternetIdentifierEvent_PDV_COD_UNK
+registry	InternetIdentifierEvent	PDV_COD	VAL	Value	registry_InternetIdentifierEvent_PDV_COD_VAL
+registry	OccupationalLicenseEvent	PDV_COD	NON	None	registry_OccupationalLicenseEvent_PDV_COD_NON
+registry	OccupationalLicenseEvent	PDV_COD	UNK	Unknown	registry_OccupationalLicenseEvent_PDV_COD_UNK
+registry	OccupationalLicenseEvent	PDV_COD	VAL	Value	registry_OccupationalLicenseEvent_PDV_COD_VAL
+registry	OccupationEvent	PDV_COD	DIS	Disabled	registry_OccupationEvent_PDV_COD_DIS
+registry	OccupationEvent	PDV_COD	NON	None	registry_OccupationEvent_PDV_COD_NON
+registry	OccupationEvent	PDV_COD	RET	Retired	registry_OccupationEvent_PDV_COD_RET
+registry	OccupationEvent	PDV_COD	UNE	Unemployed	registry_OccupationEvent_PDV_COD_UNE
+registry	OccupationEvent	PDV_COD	UNK	Unknown	registry_OccupationEvent_PDV_COD_UNK
+registry	OccupationEvent	PDV_COD	UNL	Unlisted Occupation	registry_OccupationEvent_PDV_COD_UNL
+registry	OccupationEvent	PDV_COD	VAL	Known Occupation	registry_OccupationEvent_PDV_COD_VAL
+registry	Offense	COJ_COD	FED	Federal	registry_Offense_COJ_COD_FED
+registry	Offense	COJ_COD	MIL	Military	registry_Offense_COJ_COD_MIL
+registry	Offense	COJ_COD	OOC	Out of Country	registry_Offense_COJ_COD_OOC
+registry	Offense	COJ_COD	OOS	Out of State	registry_Offense_COJ_COD_OOS
+registry	Offense	COJ_COD	TEX	Texas	registry_Offense_COJ_COD_TEX
+registry	Offense	COJ_COD	USS	US States	registry_Offense_COJ_COD_USS
+registry	Offense	COO_COD	BCO	Board/Court Ordered Offenses	registry_Offense_COO_COD_BCO
+registry	Offense	COO_COD	BOO	Board Ordered Offenses	registry_Offense_COO_COD_BOO
+registry	Offense	COO_COD	COO	Court Ordered Offenses	registry_Offense_COO_COD_COO
+registry	Offense	COO_COD	EJO	Extra Jurisdictional Offenses	registry_Offense_COO_COD_EJO
+registry	Offense	COO_COD	ICC	Interstate Compact Clause Offenses	registry_Offense_COO_COD_ICC
+registry	Offense	COO_COD	SSO	Substantially Similar Offenses	registry_Offense_COO_COD_SSO
+registry	Offense	COO_COD	TEX	Texas Offenses	registry_Offense_COO_COD_TEX
+registry	OFFENSE	GOC_COD	A	ATTEMPT TO COMMIT	registry_OFFENSE_GOC_COD_A
+registry	OFFENSE	GOC_COD	C	CONSPIRACY TO COMMIT	registry_OFFENSE_GOC_COD_C
+registry	OFFENSE	GOC_COD_es	A	INTENTO DE COMETER	registry_OFFENSE_GOC_COD_es_A
+registry	OFFENSE	GOC_COD_es	C	CONSPIRACION DE COMETER	registry_OFFENSE_GOC_COD_es_C
+registry	OFFENSE	GOC_COD_es	M	SOLICITACION CRIMINAL DE UN MENOR	registry_OFFENSE_GOC_COD_es_M
+registry	OFFENSE	GOC_COD_es	S	INCITACION DE COMETER	registry_OFFENSE_GOC_COD_es_S
+registry	OFFENSE	GOC_COD	M	CRIMINAL SOLICITATION OF A MINOR TO COMMIT	registry_OFFENSE_GOC_COD_M
+registry	OFFENSE	GOC_COD	S	SOLICITATION TO COMMIT	registry_OFFENSE_GOC_COD_S
+registry	Offense	OST_COD	AINC	INCARCERATION	registry_Offense_OST_COD_AINC
+registry	Offense	OST_COD	APAR	PAROLE/MANDATORY SUPERVISION	registry_Offense_OST_COD_APAR
+registry	Offense	OST_COD	APPL	ON APPEAL	registry_Offense_OST_COD_APPL
+registry	Offense	OST_COD	APRO	PROBATION/COMMUNITY SUPERVISION	registry_Offense_OST_COD_APRO
+registry	Offense	OST_COD	FBOP	FEDERAL INCARCERATION	registry_Offense_OST_COD_FBOP
+registry	Offense	OST_COD	FPRO	FEDERAL PROBATION	registry_Offense_OST_COD_FPRO
+registry	Offense	OST_COD	JINC	JUVENILE INCARCERATION	registry_Offense_OST_COD_JINC
+registry	Offense	OST_COD	JPAR	JUVENILE PAROLE	registry_Offense_OST_COD_JPAR
+registry	Offense	OST_COD	JPRO	JUVENILE PROBATION	registry_Offense_OST_COD_JPRO
+registry	Offense	OST_COD	MILI	MILITARY INCARCERATION	registry_Offense_OST_COD_MILI
+registry	Offense	OST_COD	NTXS	NON-TX SYSTEM SUPERVISION	registry_Offense_OST_COD_NTXS
+registry	Offense	OST_COD	OTHR	OTHER	registry_Offense_OST_COD_OTHR
+registry	Offense	OST_COD	UNKN	NOT REPORTED / UNKNOWN	registry_Offense_OST_COD_UNKN
+registry	Offense	WPN_COD	B	Blunt Object	registry_Offense_WPN_COD_B
+registry	Offense	WPN_COD	F	Firearm	registry_Offense_WPN_COD_F
+registry	Offense	WPN_COD	K	Knife/Sharp Object	registry_Offense_WPN_COD_K
+registry	Offense	WPN_COD	N	No Weapon Used	registry_Offense_WPN_COD_N
+registry	Offense	WPN_COD	O	Other	registry_Offense_WPN_COD_O
+registry	Offense	WPN_COD	U	Use of Weapon Unknown	registry_Offense_WPN_COD_U
+registry	OffenseVictim	ROV_COD	0F	VICTIM WAS OTHER FAMILY MEMBER	registry_OffenseVictim_ROV_COD_0F
+registry	OffenseVictim	ROV_COD	0K	VICTIM WAS OTHERWISE KNOWN	registry_OffenseVictim_ROV_COD_0K
+registry	OffenseVictim	ROV_COD	AQ	VICTIM WAS ACQUAINTANCE	registry_OffenseVictim_ROV_COD_AQ
+registry	OffenseVictim	ROV_COD	BE	VICTIM WAS BABYSITTEE (THE BABY)	registry_OffenseVictim_ROV_COD_BE
+registry	OffenseVictim	ROV_COD	BG	VICTIM WAS BOYFRIEND/GIRLFRIEND	registry_OffenseVictim_ROV_COD_BG
+registry	OffenseVictim	ROV_COD	CF	VICTIM WAS CHILD OF BOYFRIEND OR GIRLFRIEND	registry_OffenseVictim_ROV_COD_CF
+registry	OffenseVictim	ROV_COD	CH	VICTIM WAS CHILD	registry_OffenseVictim_ROV_COD_CH
+registry	OffenseVictim	ROV_COD	CS	VICTIM WAS COMMON-LAW-SPOUSE	registry_OffenseVictim_ROV_COD_CS
+registry	OffenseVictim	ROV_COD	EE	VICTIM WAS EMPLOYEE	registry_OffenseVictim_ROV_COD_EE
+registry	OffenseVictim	ROV_COD	ER	VICTIM WAS EMPLOYER	registry_OffenseVictim_ROV_COD_ER
+registry	OffenseVictim	ROV_COD	FR	VICTIM WAS FRIEND	registry_OffenseVictim_ROV_COD_FR
+registry	OffenseVictim	ROV_COD	GC	VICTIM WAS GRANDCHILD	registry_OffenseVictim_ROV_COD_GC
+registry	OffenseVictim	ROV_COD	GP	VICTIM WAS GRANDPARENT	registry_OffenseVictim_ROV_COD_GP
+registry	OffenseVictim	ROV_COD	IL	VICTIM WAS IN-LAW	registry_OffenseVictim_ROV_COD_IL
+registry	OffenseVictim	ROV_COD	NE	VICTIM WAS NEIGHBOR	registry_OffenseVictim_ROV_COD_NE
+registry	OffenseVictim	ROV_COD	PA	VICTIM WAS PARENT	registry_OffenseVictim_ROV_COD_PA
+registry	OffenseVictim	ROV_COD	RU	RELATIONSHIP UNKNOWN	registry_OffenseVictim_ROV_COD_RU
+registry	OffenseVictim	ROV_COD	SB	VICTIM WAS SIBLING	registry_OffenseVictim_ROV_COD_SB
+registry	OffenseVictim	ROV_COD	SC	VICTIM WAS STEPCHILD	registry_OffenseVictim_ROV_COD_SC
+registry	OffenseVictim	ROV_COD	SE	VICTIM WAS SPOUSE	registry_OffenseVictim_ROV_COD_SE
+registry	OffenseVictim	ROV_COD	SP	VICTIM WAS STEPPARENT	registry_OffenseVictim_ROV_COD_SP
+registry	OffenseVictim	ROV_COD	SS	VICTIM WAS STEPSIBLING	registry_OffenseVictim_ROV_COD_SS
+registry	OffenseVictim	ROV_COD	ST	VICTIM WAS STRANGER	registry_OffenseVictim_ROV_COD_ST
+registry	OffenseVictim	ROV_COD	XS	VICTIM WAS EX-SPOUSE	registry_OffenseVictim_ROV_COD_XS
+registry	RelativeEvent	PDV_COD	NON	None	registry_RelativeEvent_PDV_COD_NON
+registry	RelativeEvent	PDV_COD	OOC	Out of country	registry_RelativeEvent_PDV_COD_OOC
+registry	RelativeEvent	PDV_COD	UNK	Unknown	registry_RelativeEvent_PDV_COD_UNK
+registry	RelativeEvent	PDV_COD	VAL	Value	registry_RelativeEvent_PDV_COD_VAL
+registry	TelephoneEvent	PDV_COD	NON	None	registry_TelephoneEvent_PDV_COD_NON
+registry	TelephoneEvent	PDV_COD	UNK	Unknown	registry_TelephoneEvent_PDV_COD_UNK
+registry	TelephoneEvent	PDV_COD	VAL	Value	registry_TelephoneEvent_PDV_COD_VAL
+registry	Vehicle	VOW_COD	A	Registered to acquaintance	registry_Vehicle_VOW_COD_A
+registry	Vehicle	VOW_COD	F	Registered to relative that does not share residence	registry_Vehicle_VOW_COD_F
+registry	Vehicle	VOW_COD	H	Registered to member of household	registry_Vehicle_VOW_COD_H
+registry	Vehicle	VOW_COD	L	Loaner	registry_Vehicle_VOW_COD_L
+registry	Vehicle	VOW_COD	P	Personal	registry_Vehicle_VOW_COD_P
+registry	Vehicle	VOW_COD	R	Rental	registry_Vehicle_VOW_COD_R
+registry	Vehicle	VOW_COD	W	Work	registry_Vehicle_VOW_COD_W
+registry	Vehicle	VOW_COD	Y	Other	registry_Vehicle_VOW_COD_Y
+registry	VehicleEvent	PDV_COD	NON	None	registry_VehicleEvent_PDV_COD_NON
+registry	VehicleEvent	PDV_COD	UNK	Unknown	registry_VehicleEvent_PDV_COD_UNK
+registry	VehicleEvent	PDV_COD	VAL	Value	registry_VehicleEvent_PDV_COD_VAL
