@@ -2,8 +2,9 @@
 a.navbar-brand{
     margin-left: 10px;
     padding: 10px;
-    background-color: blue;
+    background-color: 204, 193, 149;
     font-family: 'Times New Roman', Times, serif;
+    color: rgb(204, 193, 149);
     font-size: 25px;
 }
 
@@ -12,30 +13,32 @@ a.navbar-brand{
     padding-top:0px;
     padding-bottom: 0px;
     padding-right:40px;
+    background-color: rgb(204, 193, 149);
+    color: rgb(255, 0, 21);
 }
 
 .nav-item.dropdown.show {
-    background-color: #ddd;
+    background-color: 204, 193, 149;
 }
 
 .dropdown-menu {
     margin: 0;
-    background-color: #ddd;
+    background-color: rgb(204, 193, 149);
 }
 
 /* header styling*/
 h3{
-    color: blue;
+    color: rgb(204, 193, 149);
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 15px;
 }
 
 /* body background*/
 body{
-    background-color: rgb(223, 222, 222);
+    background-color: rgb(44, 165, 33);
 }
 .col-md-12{
-    background-color: white;
+    background-color: rgb(252, 249, 249);
     padding-top: 20px;
     padding-bottom:40px;
 }
@@ -43,7 +46,7 @@ body{
 /* small screen adjustments*/
 @media(max-width:767px){
     .navbar.bg-light{
-        background-color: blue !important;    
+        background-color: rgb(255, 255, 255) !important;    
     }
 
     .navbar-collapse{
@@ -63,25 +66,29 @@ body{
 /* fontstyling for text*/
 p{
    font-family: Arial, Helvetica, sans-serif;
+   color: rgb(252, 252, 252);
    font-size: large;
    padding:10px;
 }
 
 /* body background*/
 body{
-    background-color: rgb(223, 222, 222);
+    background-color: rgb(255, 255, 255);
 }
-.col-md-12{
-    background-color: white;
+
+
+.col-md-8{
+    background-color: rgb(24, 3, 3);
     padding-top: 20px;
     padding-bottom:40px;
 }
+
 .boxsizing{
     box-sizing: border-box;
-    background-color: white;
+    background-color: rgb(17, 163, 29);
 }
 .col-md-12{
-    background-color: white;
+    background-color: rgb(4, 18, 22);
     padding-top: 40px;
     padding-bottom:60px;
     box-sizing: border-box;
@@ -90,7 +97,7 @@ body{
 
 /* image border styling*/
 .pic{
-    border: 3px solid blue;
+    border: 3px solid rgb(204, 193, 149);
 }
 
 /* table text adjustments*/
@@ -101,8 +108,8 @@ th, td {
   }
 
   th {
-    background-color: blue;
-    color: white;
+    background-color: rgb(204, 193, 149);
+    color: rgb(17, 16, 16);
   }
 
 th { 
