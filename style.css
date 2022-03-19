@@ -2,8 +2,9 @@
 a.navbar-brand{
     margin-left: 10px;
     padding: 10px;
-    background-color: blue;
+    background-color: rgba(189, 183, 107);
     font-family: 'Times New Roman', Times, serif;
+    color: rgba(189, 183, 107);
     font-size: 25px;
 }
 
@@ -12,30 +13,32 @@ a.navbar-brand{
     padding-top:0px;
     padding-bottom: 0px;
     padding-right:40px;
+    background-color: rgba(189, 183, 107);
+    color: rgb(255, 0, 21);
 }
 
 .nav-item.dropdown.show {
-    background-color: #ddd;
+    background-color: rgb(189,183,107);
 }
 
 .dropdown-menu {
     margin: 0;
-    background-color: #ddd;
+    background-color: rgba(189, 183, 107);
 }
 
 /* header styling*/
 h3{
-    color: blue;
+    color: rgb(189,183,107);
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 15px;
 }
 
 /* body background*/
 body{
-    background-color: rgb(223, 222, 222);
+    background-color: rgb(14, 22, 22);
 }
 .col-md-12{
-    background-color: white;
+    background-color: rgb(0, 0, 0);
     padding-top: 20px;
     padding-bottom:40px;
 }
@@ -43,7 +46,7 @@ body{
 /* small screen adjustments*/
 @media(max-width:767px){
     .navbar.bg-light{
-        background-color: blue !important;    
+        background-color: rgb(255, 255, 255) !important;    
     }
 
     .navbar-collapse{
@@ -63,13 +66,14 @@ body{
 /* fontstyling for text*/
 p{
    font-family: Arial, Helvetica, sans-serif;
+   color: rgb(36,33,36);
    font-size: large;
    padding:10px;
 }
 
-/* body background*/
+/* body background*/7
 body{
-    background-color: rgb(223, 222, 222);
+    background-color: rgb(36,33,36);
 }
 .col-md-12{
     background-color: white;
@@ -78,10 +82,10 @@ body{
 }
 .boxsizing{
     box-sizing: border-box;
-    background-color: white;
+    background-color: rgb(17, 163, 29);
 }
 .col-md-12{
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     padding-top: 40px;
     padding-bottom:60px;
     box-sizing: border-box;
@@ -90,7 +94,7 @@ body{
 
 /* image border styling*/
 .pic{
-    border: 3px solid blue;
+    border: 3px solid rgb(189,183,107);
 }
 
 /* table text adjustments*/
@@ -101,7 +105,7 @@ th, td {
   }
 
   th {
-    background-color: blue;
+    background-color: rgb(189,183,107);
     color: white;
   }
 
