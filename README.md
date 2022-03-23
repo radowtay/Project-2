@@ -59,12 +59,16 @@ Some of the challenges that we had to overcome were data cleanup and the convers
 - For this Extraction we used the counties.txt and Adress.txt  Our first step was to convert the txt files into Pandas databases.  
 - Once this was done we cleaned up the resulting dataframe by dropping na columns and then grouping by the COUNTY_CODE.  
 - Then when this was completed we then merges the files together and it resulted in a table with a county code and Registered Offender count which we could reference once we started to transform the data.
+- ![alt extract](Images/extraction_1.png)
+
+
 
 ## Transformation
 ### Offense Codes Transformation
 - We started with the data from NIBRS_OFFENSE_TYPE and transformed it into a data set that we could reference.
 - First we filtered by the columns that we would need including Offense type id and offense name and removed the remaining.
 - Next we would use this data to find the ids that we would need for the remaining data transformations.
+- ![alt transform](Images/extraction_2.png)
 ### Arrest Data Transformation
 - We used our extracted data from the previous step and filtered it down to the fours columns that we would need.  From there we sorted it by county code.
 - One of the challenges that we ran into was that when the data was converted to a csv file and the loaded back into a database it was loaded as a string and not a list.
