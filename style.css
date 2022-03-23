@@ -7,7 +7,12 @@ a.navbar-brand{
     color: rgb(204, 193, 149);
     font-size: 25px;
 }
-
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
 /* navbar styling*/
 .navbar{
     padding-top:0px;
