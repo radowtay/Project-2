@@ -1,0 +1,87 @@
+,OFFENSE_TYPE_ID,OFFENSE_NAME
+0,58,Not Specified
+1,1,Justifiable Homicide
+2,2,False Pretenses/Swindle/Confidence Game
+3,3,Statutory Rape
+4,4,Sexual Assault With An Object
+5,5,Destruction/Damage/Vandalism of Property
+6,6,"Family Offenses, Nonviolent"
+7,7,Theft of Motor Vehicle Parts or Accessories
+8,8,Pornography/Obscene Material
+9,9,Sports Tampering
+10,11,Counterfeiting/Forgery
+11,12,Welfare Fraud
+12,13,Pocket-picking
+13,14,Theft From Motor Vehicle
+14,15,Assisting or Promoting Prostitution
+15,16,Drug/Narcotic Violations
+16,17,Wire Fraud
+17,18,Purse-snatching
+18,19,Runaway
+19,20,Arson
+20,21,Motor Vehicle Theft
+21,22,Drunkenness
+22,23,Shoplifting
+23,24,Operating/Promoting/Assisting Gambling
+24,25,Bad Checks
+25,26,Extortion/Blackmail
+26,27,Aggravated Assault
+27,28,Stolen Property Offenses
+28,29,Kidnapping/Abduction
+29,30,Prostitution
+30,31,Betting/Wagering
+31,32,Murder and Nonnegligent Manslaughter
+32,33,Peeping Tom
+33,34,Trespass of Real Property
+34,35,Drug Equipment Violations
+35,37,Embezzlement
+36,38,Negligent Manslaughter
+37,39,Weapon Law Violations
+38,40,Robbery
+39,41,Credit Card/Automated Teller Machine Fraud
+40,42,Curfew/Loitering/Vagrancy Violations
+41,43,Sodomy
+42,44,Intimidation
+43,45,All Other Larceny
+44,47,Theft From Building
+45,49,Burglary/Breaking & Entering
+46,52,Liquor Law Violations
+47,53,Disorderly Conduct
+48,54,Gambling Equipment Violation
+49,55,Incest
+50,57,Bribery
+51,59,"Human Trafficking, Commercial Sex Acts"
+52,60,"Human Trafficking, Involuntary Servitude"
+53,63,Identity Theft
+54,64,Hacking/Computer Invasion
+55,62,Animal Cruelty
+56,65,Failure to Appear
+57,66,Federal Resource Violations
+58,67,Perjury
+59,69,Treason
+60,70,Espionage
+61,71,Illegal Entry into the United States
+62,72,False Citizenship
+63,73,Smuggling Aliens
+64,74,Re-entry after Deportation
+65,75,Failure to Register as a Sex Offender
+66,76,Harboring Escapee/Concealing from Arrest
+67,77,Flight to Avoid Prosecution
+68,78,Flight to Avoid Deportation
+69,79,Violation of National Firearm Act of 1934
+70,80,Weapons of Mass Destruction
+71,81,Explosives Violation
+72,82,Import Violations
+73,83,Export Violations
+74,84,Federal Liquor Offenses
+75,85,Federal Tobacco Offenses
+76,86,Wildlife Trafficking
+77,46,Impersonation
+78,51,Simple Assault
+79,56,Fondling
+80,61,Purchasing Prostitution
+81,68,Money Laundering
+82,36,Rape
+83,50,Theft From Coin-Operated Machine or Device
+84,10,Driving Under the Influence
+85,48,All Other Offenses
