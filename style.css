@@ -116,3 +116,11 @@ th, td {
 th { 
     text-align: left;
 }
+
+
+.jumbotron{
+    background-color: black;
+}
+.btn{
+    color: black
+}
